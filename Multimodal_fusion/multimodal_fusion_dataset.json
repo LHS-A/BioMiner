@@ -1,0 +1,7256 @@
+[
+  {
+    "name": "LCs_2917.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9972831010818481,
+      0.0027150060050189495,
+      1.8808709683071356e-06,
+      8.127526984758049e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9940544962882996,
+      0.002762472489848733,
+      0.0021384377032518387,
+      0.0010445849038660526
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_871.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.20269688963890076,
+      0.7733889222145081,
+      0.02390175499022007,
+      1.244668965227902e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.28929105401039124,
+      0.7030446529388428,
+      0.005489334464073181,
+      0.002174962544813752
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2386.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0005791971925646067,
+      0.9903620481491089,
+      0.009057821705937386,
+      9.218721856996126e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.04528665542602539,
+      0.9445075392723083,
+      0.008792286738753319,
+      0.0014134710654616356
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3345.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      8.118715477678506e-09,
+      0.012763934209942818,
+      0.9751478433609009,
+      0.0120881712064147
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0031406551133841276,
+      0.259834349155426,
+      0.7122794389724731,
+      0.02474559098482132
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_440.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.013822694309055805,
+      0.932974100112915,
+      0.05315334349870682,
+      4.979041841579601e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.011919131502509117,
+      0.9091136455535889,
+      0.07453710585832596,
+      0.004430141765624285
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3203.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      5.33245092526613e-08,
+      0.020698370411992073,
+      0.9416413307189941,
+      0.037660300731658936
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0015457042027264833,
+      0.0643388107419014,
+      0.8267679214477539,
+      0.10734758526086807
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2734.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.27110835587996e-09,
+      0.00011407690908527002,
+      0.4520333707332611,
+      0.5478525757789612
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0008264626958407462,
+      0.012128448113799095,
+      0.4681517779827118,
+      0.518893301486969
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_280.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9967603087425232,
+      0.0032313531264662743,
+      8.375694051210303e-06,
+      5.1614392759802286e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.48265892267227173,
+      0.42498546838760376,
+      0.0805128812789917,
+      0.01184278354048729
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1519.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      5.542509097722359e-05,
+      0.7926311492919922,
+      0.20723479986190796,
+      7.863915379857644e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.008364314213395119,
+      0.9076339602470398,
+      0.0802069902420044,
+      0.003794745309278369
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2613.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9902153015136719,
+      0.00975748896598816,
+      2.7031557692680508e-05,
+      1.6546671588457684e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.40545573830604553,
+      0.5883688926696777,
+      0.004311940632760525,
+      0.0018634406151250005
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_306.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0010508958948776126,
+      0.9899405837059021,
+      0.009006104432046413,
+      2.3969939775270177e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.052683331072330475,
+      0.9286842346191406,
+      0.015901828184723854,
+      0.002730594715103507
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_781.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.5302636313663243e-07,
+      0.10678940266370773,
+      0.8927870392799377,
+      0.0004234459192957729
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0019100070931017399,
+      0.0841410830616951,
+      0.8224296569824219,
+      0.09151924401521683
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2447.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9994691014289856,
+      0.0005309314583428204,
+      2.002663279654371e-08,
+      6.8125518247474925e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.978010356426239,
+      0.020271753892302513,
+      0.0009466069750487804,
+      0.0007713657105341554
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2019.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00011356735194567591,
+      0.995602011680603,
+      0.004284252412617207,
+      1.3228032003098633e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.028865082189440727,
+      0.9216511845588684,
+      0.044290691614151,
+      0.005193103104829788
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2176.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.0870390099171345e-07,
+      0.003108616918325424,
+      0.49578914046287537,
+      0.5011021494865417
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.006233714986592531,
+      0.6215757727622986,
+      0.35514670610427856,
+      0.017043767496943474
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2249.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.19020318984985352,
+      0.7690579891204834,
+      0.040729109197854996,
+      9.696169399830978e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.4313471019268036,
+      0.5543032884597778,
+      0.010939529165625572,
+      0.003410116070881486
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_540.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.004037561360746622,
+      0.8026055097579956,
+      0.19332852959632874,
+      2.846027200575918e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.11369751393795013,
+      0.8733301758766174,
+      0.010478571988642216,
+      0.0024936844129115343
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1776.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      2.3292150217457674e-06,
+      0.8928662538528442,
+      0.10711994022130966,
+      1.1505236216180492e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.004857730120420456,
+      0.5523378849029541,
+      0.4300457239151001,
+      0.0127587104216218
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_503.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0002312873548362404,
+      0.9378030300140381,
+      0.06191851198673248,
+      4.713258385891095e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.04704287275671959,
+      0.9065492153167725,
+      0.04074765369296074,
+      0.005660280119627714
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1695.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.691184608494268e-09,
+      0.002611626870930195,
+      0.9759519100189209,
+      0.02143646590411663
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0034268435556441545,
+      0.16698095202445984,
+      0.7618927359580994,
+      0.06769952923059464
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3617.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9817332029342651,
+      0.01823308877646923,
+      3.3722368243616074e-05,
+      1.2829122653101876e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9599177837371826,
+      0.037763290107250214,
+      0.001425987808033824,
+      0.0008928770548664033
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_79.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.991212785243988,
+      0.00878269225358963,
+      4.468126462597866e-06,
+      6.622852488646913e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.8879358768463135,
+      0.10838555544614792,
+      0.00240822765044868,
+      0.0012703558895736933
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1858.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9818182587623596,
+      0.0181815754622221,
+      1.1920315046154428e-07,
+      2.1725446962272965e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.8235793113708496,
+      0.17288276553153992,
+      0.0021942537277936935,
+      0.0013436377048492432
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2027.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      2.404655060672667e-05,
+      0.9962173104286194,
+      0.003758400911465287,
+      1.8107597554717358e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.027183489874005318,
+      0.9504259824752808,
+      0.020134499296545982,
+      0.0022560530342161655
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2101.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.751998156076297e-05,
+      0.013426944613456726,
+      0.8027418255805969,
+      0.18379372358322144
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0008434244664385915,
+      0.011667866259813309,
+      0.44699233770370483,
+      0.5404963493347168
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3638.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9990355968475342,
+      0.0009642911609262228,
+      1.1923643228328729e-07,
+      4.5590728414701687e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.991074800491333,
+      0.007350218947976828,
+      0.0008966131717897952,
+      0.000678294978570193
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3596.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.006706536281853914,
+      0.9715035557746887,
+      0.02177862823009491,
+      1.1271695257164538e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.1658143848180771,
+      0.8140353560447693,
+      0.016484111547470093,
+      0.003666227450594306
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_364.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9883577227592468,
+      0.011554867960512638,
+      8.695730502950028e-05,
+      4.52871290690382e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9464680552482605,
+      0.04752260074019432,
+      0.004676638171076775,
+      0.0013327553169801831
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1681.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.4011642690547887e-07,
+      0.0007583741680718958,
+      0.2281356155872345,
+      0.7711058855056763
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0025623366236686707,
+      0.2224268615245819,
+      0.7464641332626343,
+      0.028546690940856934
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1716.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.8502270207567465e-15,
+      9.164156544727575e-09,
+      0.016947422176599503,
+      0.9830526113510132
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00023426790721714497,
+      0.0007027142564766109,
+      0.015972141176462173,
+      0.9830908179283142
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_246.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9999805688858032,
+      1.9386299754842184e-05,
+      9.752515461869393e-10,
+      5.743210675914975e-14
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9962893724441528,
+      0.0019500880734995008,
+      0.0009192109573632479,
+      0.0008412430761381984
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1290.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.1378624143485467e-09,
+      1.2854430408992812e-08,
+      4.4596574298338965e-05,
+      0.999955415725708
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00034557870822027326,
+      0.0005854814080521464,
+      0.008929645642638206,
+      0.990139365196228
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_68.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9949774146080017,
+      0.005021688994020224,
+      8.317636002175277e-07,
+      2.280796523868034e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.20721128582954407,
+      0.6585419178009033,
+      0.11573853343725204,
+      0.01850835792720318
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_60.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9978821873664856,
+      0.002117809606716037,
+      3.201552800646823e-08,
+      8.840641977161945e-13
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.1454402655363083,
+      0.5092847943305969,
+      0.3108256757259369,
+      0.03444930166006088
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3961.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.9859543442726135,
+      0.014042447321116924,
+      3.2032103263190947e-06,
+      1.0657157101245929e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.7595242261886597,
+      0.23648026585578918,
+      0.0024663996882736683,
+      0.0015291210729628801
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_521.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9955214262008667,
+      0.0044399164617061615,
+      3.84622580895666e-05,
+      2.281764182043844e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.5669402480125427,
+      0.42717617750167847,
+      0.0039697978645563126,
+      0.0019138222560286522
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3483.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.0657038984618339e-07,
+      0.028963662683963776,
+      0.9654052257537842,
+      0.00563096022233367
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.009184243157505989,
+      0.7052186727523804,
+      0.27329379320144653,
+      0.012303289957344532
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_4187.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.00017664750339463353,
+      0.17476440966129303,
+      0.8113183975219727,
+      0.013740587048232555
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.00442573381587863,
+      0.43113353848457336,
+      0.5435826778411865,
+      0.020858069881796837
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3280.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.019979827105998993,
+      0.9791461229324341,
+      0.0008737046737223864,
+      3.490256972327188e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.032985419034957886,
+      0.9546830654144287,
+      0.010782971046864986,
+      0.0015485567273572087
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_656.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.2308336294619693e-10,
+      7.833550341729278e-08,
+      0.0020255865529179573,
+      0.9979743361473083
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0003212984884157777,
+      0.002372028771787882,
+      0.10716402530670166,
+      0.8901426196098328
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2809.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9012254476547241,
+      0.09646200388669968,
+      0.0023093181662261486,
+      3.242779484935454e-06
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9761107563972473,
+      0.020548027008771896,
+      0.0023359826300293207,
+      0.001005251077003777
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3438.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.034369345754384995,
+      0.9615707993507385,
+      0.0040594302117824554,
+      4.261665083049593e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.1249428316950798,
+      0.47213083505630493,
+      0.3619322180747986,
+      0.04099411144852638
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_747.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9458988308906555,
+      0.05386883765459061,
+      0.00023240289010573179,
+      1.072612576535903e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.963962972164154,
+      0.034062594175338745,
+      0.0011007325956597924,
+      0.0008737557800486684
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3524.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.1934584081172943,
+      0.7649192810058594,
+      0.03995771333575249,
+      0.0016646164003759623
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.05354054644703865,
+      0.7548253536224365,
+      0.1704101860523224,
+      0.021223921328783035
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1712.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      8.453263783403386e-11,
+      3.5504669426700275e-07,
+      0.011655265465378761,
+      0.9883444309234619
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002277727471664548,
+      0.0010854658903554082,
+      0.035008396953344345,
+      0.9636783599853516
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_444.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9088510274887085,
+      0.0846523717045784,
+      0.006383244879543781,
+      0.0001133470723289065
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.4952889084815979,
+      0.318800151348114,
+      0.16703805327415466,
+      0.018872851505875587
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2197.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.015011102892458439,
+      0.9747796654701233,
+      0.010096640326082706,
+      0.00011258530139457434
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.3277587592601776,
+      0.6662387251853943,
+      0.004107859451323748,
+      0.00189464061986655
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2099.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00010381158790551126,
+      0.9697007536888123,
+      0.030160652473568916,
+      3.4840410080505535e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.008095861412584782,
+      0.8805096745491028,
+      0.10624611377716064,
+      0.0051482683047652245
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2597.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.18000252544879913,
+      0.8093281984329224,
+      0.010656202211976051,
+      1.3157849934941623e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.4614076316356659,
+      0.5319638252258301,
+      0.0045744446106255054,
+      0.0020541076082736254
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3505.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.3220567002258932e-11,
+      1.2545296158350538e-05,
+      0.8950722217559814,
+      0.10491519421339035
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.003644626820459962,
+      0.2625614106655121,
+      0.704713761806488,
+      0.029080187901854515
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1546.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9997182488441467,
+      0.00028177149943076074,
+      3.716926144647914e-08,
+      5.67662453501705e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9727742671966553,
+      0.0254196897149086,
+      0.0009822974679991603,
+      0.000823703536298126
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1118.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.3367781523120357e-06,
+      0.014831130392849445,
+      0.9788047075271606,
+      0.006361851468682289
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0014728581300005317,
+      0.060766056180000305,
+      0.8180404305458069,
+      0.1197207123041153
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_477.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.024076325818896294,
+      0.31526699662208557,
+      0.6508268713951111,
+      0.0098298080265522
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.318707138299942,
+      0.1458006054162979,
+      0.49222901463508606,
+      0.043263234198093414
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_772.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      5.575760964049437e-10,
+      0.0001401029439875856,
+      0.8320552706718445,
+      0.16780468821525574
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0035264953039586544,
+      0.33314090967178345,
+      0.636834442615509,
+      0.026498187333345413
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2238.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.001827116822823882,
+      0.882938802242279,
+      0.11522472649812698,
+      9.354233952763025e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.027625221759080887,
+      0.9534065127372742,
+      0.017404207959771156,
+      0.0015641053905710578
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1106.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      2.7092113668913953e-05,
+      0.9683942794799805,
+      0.03156885504722595,
+      9.760457032825798e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.007181265857070684,
+      0.8120153546333313,
+      0.17505089938640594,
+      0.005752484779804945
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2700.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00010496724280528724,
+      0.05151943489909172,
+      0.9381822347640991,
+      0.01019332930445671
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.004202269949018955,
+      0.5279365181922913,
+      0.4499509334564209,
+      0.01791035383939743
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_682.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      0.003382559400051832,
+      0.0009063989273272455,
+      0.011107131838798523,
+      0.9846039414405823
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.000232852078625001,
+      0.0009551734547130764,
+      0.02379794605076313,
+      0.9750139713287354
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_887.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00014846803969703615,
+      0.9177618026733398,
+      0.08205629140138626,
+      3.345097502460703e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.009971195831894875,
+      0.9195091128349304,
+      0.06755252927541733,
+      0.002967091975733638
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3774.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00012748385779559612,
+      0.5709381699562073,
+      0.42570486664772034,
+      0.0032294788397848606
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.004868363495916128,
+      0.5395217537879944,
+      0.4351295828819275,
+      0.020480260252952576
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2169.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00012491286906879395,
+      0.9880546927452087,
+      0.011799059808254242,
+      2.1377065422711894e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.016922175884246826,
+      0.9621597528457642,
+      0.019205711781978607,
+      0.0017123543657362461
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_936.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.1559451272856744e-12,
+      8.902773518393303e-10,
+      0.0001649386395001784,
+      0.9998350143432617
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.000288270297460258,
+      0.0006020676228217781,
+      0.009474224410951138,
+      0.9896355271339417
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3369.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9880974888801575,
+      0.011841682717204094,
+      6.014918108121492e-05,
+      6.445892495321459e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.26004746556282043,
+      0.4587867856025696,
+      0.24830280244350433,
+      0.03286297246813774
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_634.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9855409264564514,
+      0.01431956235319376,
+      0.00013801906607113779,
+      1.461280589865055e-06
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.054342761635780334,
+      0.8187172412872314,
+      0.11154594272375107,
+      0.015394012443721294
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1949.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.253150564181851e-06,
+      0.296658992767334,
+      0.7013241052627563,
+      0.0020126719027757645
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0057617719285190105,
+      0.5864938497543335,
+      0.39483174681663513,
+      0.012912644073367119
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1975.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.27657821774482727,
+      0.7233038544654846,
+      0.0001179824976134114,
+      1.026938001302824e-08
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.4950884282588959,
+      0.49676620960235596,
+      0.005935961380600929,
+      0.002209401922300458
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1974.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.8577498197555542,
+      0.1410290002822876,
+      0.00122052279766649,
+      6.536208729812643e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.5045221447944641,
+      0.4851388931274414,
+      0.007798863109201193,
+      0.002540112705901265
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3578.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.4646467632467575e-12,
+      2.7430201043898705e-06,
+      0.06406284868717194,
+      0.93593430519104
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0013776381965726614,
+      0.03973202407360077,
+      0.6980116963386536,
+      0.26087871193885803
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1091.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      1.544956262478081e-06,
+      0.8893065452575684,
+      0.11065466701984406,
+      3.720554377650842e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.007762696128338575,
+      0.8077887892723083,
+      0.17511588335037231,
+      0.009332659654319286
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2045.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.8001750504481606e-05,
+      2.9500604341592407e-06,
+      0.001271711429581046,
+      0.9987072944641113
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.024391280487179756,
+      0.1446731984615326,
+      0.6305010318756104,
+      0.20043455064296722
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2311.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9961600303649902,
+      0.003837558440864086,
+      2.4105727334244875e-06,
+      2.5219262234088546e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9678744077682495,
+      0.030222797766327858,
+      0.0010613948106765747,
+      0.000841417582705617
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3258.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.3501297519216693e-12,
+      8.041603649644458e-08,
+      0.003391400445252657,
+      0.9966084957122803
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002921437844634056,
+      0.0017957428935915232,
+      0.06700687855482101,
+      0.9309051632881165
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3323.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9967997074127197,
+      0.003199836239218712,
+      4.573026046728046e-07,
+      1.6198865165906184e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9904910326004028,
+      0.003813238348811865,
+      0.0041581555269658566,
+      0.0015376271912828088
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1517.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.2004934698343277,
+      0.7992302775382996,
+      0.00027624459471553564,
+      5.612674769395198e-10
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.21757633984088898,
+      0.775220513343811,
+      0.005265193060040474,
+      0.0019379310542717576
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3446.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.348241732533313e-16,
+      8.126390532714467e-11,
+      0.0003861456934828311,
+      0.9996139407157898
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00022124643146526068,
+      0.0007022462668828666,
+      0.012800466269254684,
+      0.9862760305404663
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2980.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.009568941779434681,
+      0.9261394143104553,
+      0.06422863155603409,
+      6.302424299065024e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.2678070068359375,
+      0.7141608595848083,
+      0.014213461428880692,
+      0.003818650497123599
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_897.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0008268278324976563,
+      0.98445063829422,
+      0.014721861109137535,
+      6.685174298581842e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.00938746239989996,
+      0.9092759490013123,
+      0.07703064382076263,
+      0.004305996000766754
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3933.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.012826458550989628,
+      0.9813957810401917,
+      0.005773582495748997,
+      4.26384576712735e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.017746809870004654,
+      0.8523930311203003,
+      0.12160731106996536,
+      0.008252852596342564
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_803.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.4257058157672873e-06,
+      5.5640965001657605e-05,
+      0.023788589984178543,
+      0.9761533737182617
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0003964233910664916,
+      0.0036799770314246416,
+      0.13972528278827667,
+      0.8561983108520508
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_948.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.9267560880109613e-09,
+      1.5597888136653637e-07,
+      0.005080860573798418,
+      0.9949190020561218
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00044294886174611747,
+      0.004216032102704048,
+      0.185481458902359,
+      0.809859573841095
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_114.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.1438434212709143e-13,
+      1.7492662891527289e-06,
+      0.10461044311523438,
+      0.8953878879547119
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00038110214518383145,
+      0.003842833684757352,
+      0.13487713038921356,
+      0.8608988523483276
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1453.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      5.234024769151802e-09,
+      0.0003792020143009722,
+      0.9379552006721497,
+      0.0616656094789505
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.002625091467052698,
+      0.1974332630634308,
+      0.7778365015983582,
+      0.02210516296327114
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1424.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.10902205109596252,
+      0.8909413814544678,
+      3.6521571018965915e-05,
+      1.409473926461402e-10
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.4125412404537201,
+      0.5820498466491699,
+      0.003645871067419648,
+      0.001763012958690524
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3216.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0035535364877432585,
+      0.9883223176002502,
+      0.008122770115733147,
+      1.4382867448148318e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.15650911629199982,
+      0.832197904586792,
+      0.008873877115547657,
+      0.0024191122502088547
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1624.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.010214629583060741,
+      0.3151054084300995,
+      0.6350775957107544,
+      0.039602313190698624
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.1512264758348465,
+      0.8402640223503113,
+      0.006878491025418043,
+      0.0016310703940689564
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3710.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.2892073690891266,
+      0.7061842083930969,
+      0.0045948512852191925,
+      1.3602548278868198e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.5488241314888,
+      0.4449564218521118,
+      0.004328640643507242,
+      0.0018907878547906876
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_410.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0007461557979695499,
+      0.8158164620399475,
+      0.18190422654151917,
+      0.0015331505564972758
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.016476845368742943,
+      0.9108112454414368,
+      0.0669378936290741,
+      0.0057740178890526295
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3947.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      6.73507820694863e-12,
+      7.709193994287489e-08,
+      0.007219531107693911,
+      0.9927803874015808
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0008050276665017009,
+      0.008918002247810364,
+      0.25064852833747864,
+      0.7396284937858582
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3318.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      8.110577255138196e-06,
+      0.019447453320026398,
+      0.9126750230789185,
+      0.06786938011646271
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0009899992728605866,
+      0.03198728337883949,
+      0.6701661348342896,
+      0.2968566119670868
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_270.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9996731281280518,
+      0.00032691165688447654,
+      2.756786265933897e-08,
+      2.9508886653650812e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9951750040054321,
+      0.002930637449026108,
+      0.0011328149121254683,
+      0.0007614500354975462
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2087.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      9.979553396988194e-06,
+      0.9781872630119324,
+      0.021787146106362343,
+      1.5630899724783376e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.03123515285551548,
+      0.951019823551178,
+      0.01591772958636284,
+      0.0018273164751008153
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3929.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      3.4214305000279666e-11,
+      0.00023191308719106019,
+      0.6253401637077332,
+      0.3744278848171234
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.003591962158679962,
+      0.12149779498577118,
+      0.7158117890357971,
+      0.15909846127033234
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1225.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9947904348373413,
+      0.00520444568246603,
+      5.11380903844838e-06,
+      3.819387472958624e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9783540368080139,
+      0.0192126277834177,
+      0.0015902507584542036,
+      0.0008431047317571938
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2606.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.5860867279116064e-05,
+      0.7346157431602478,
+      0.2643682658672333,
+      0.001000156276859343
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.001671624486334622,
+      0.041038453578948975,
+      0.6060811281204224,
+      0.35120874643325806
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1390.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      1.975075065274723e-05,
+      0.5053911805152893,
+      0.4938827455043793,
+      0.0007062948425300419
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.014895099215209484,
+      0.7977457642555237,
+      0.17587362229824066,
+      0.011485467664897442
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1454.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.006078884761678e-11,
+      4.6008672143216245e-06,
+      0.14218808710575104,
+      0.8578073382377625
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00041747355135157704,
+      0.004238163121044636,
+      0.13938240706920624,
+      0.8559619784355164
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_490.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9993101358413696,
+      0.0006885359180159867,
+      1.364707372886187e-06,
+      3.7199165969781234e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.974185049533844,
+      0.02400311268866062,
+      0.0010016177548095584,
+      0.0008102069841697812
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1833.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.46519485116004944,
+      0.533673882484436,
+      0.0011304336367174983,
+      8.662107120471774e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.40357479453086853,
+      0.5895969867706299,
+      0.004744778852909803,
+      0.0020833679009228945
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3609.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.00961220357567072,
+      0.9787850975990295,
+      0.011600552126765251,
+      2.1829887373314705e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.04011041298508644,
+      0.4035766124725342,
+      0.49892881512641907,
+      0.05738411471247673
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_386.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.00030415752553381026,
+      0.07285664230585098,
+      0.9070147275924683,
+      0.019824516028165817
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0032523968257009983,
+      0.26964640617370605,
+      0.7109866738319397,
+      0.016114480793476105
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2825.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9999489784240723,
+      5.102200520923361e-05,
+      6.8519518947596225e-09,
+      9.37429929688538e-13
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9962893724441528,
+      0.0019500880734995008,
+      0.0009192109573632479,
+      0.0008412430761381984
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1205.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.9142864150344394e-05,
+      0.036512844264507294,
+      0.9489375352859497,
+      0.014520397409796715
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.004780135583132505,
+      0.3747783899307251,
+      0.6037911176681519,
+      0.016650255769491196
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_850.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9041303396224976,
+      0.09575080871582031,
+      0.00011884885316248983,
+      3.370148249359772e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.5680204629898071,
+      0.4266079366207123,
+      0.0036314150784164667,
+      0.001740184030495584
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1151.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.949681527335656e-09,
+      0.0002623034524731338,
+      0.9943278431892395,
+      0.005409911274909973
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.002654031617566943,
+      0.1745036542415619,
+      0.8019761443138123,
+      0.02086620405316353
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3306.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.7936456799507141,
+      0.2063244879245758,
+      2.9833774533472024e-05,
+      5.296788563313726e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.5585588812828064,
+      0.43491172790527344,
+      0.004370756912976503,
+      0.0021586751099675894
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3159.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9996320009231567,
+      0.00036795626510865986,
+      5.836433913941619e-08,
+      6.79565154149131e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9940986633300781,
+      0.004277405794709921,
+      0.0009144088835455477,
+      0.0007095506880432367
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2538.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.0002780109934974462,
+      0.026855718344449997,
+      0.7394643425941467,
+      0.23340193927288055
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0016670185141265392,
+      0.07610932737588882,
+      0.844071090221405,
+      0.07815265655517578
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_71.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9998226761817932,
+      0.00017735964502207935,
+      3.29029825607563e-09,
+      4.3630206327145704e-13
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9862203598022461,
+      0.012108976021409035,
+      0.0009409233462065458,
+      0.0007297268020920455
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_651.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.2566186189651489,
+      0.7432750463485718,
+      0.00010636103252181783,
+      2.9440170301597846e-09
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.21296930313110352,
+      0.7803173065185547,
+      0.00493130786344409,
+      0.0017819894710555673
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1737.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      6.729621418344323e-06,
+      0.004553718492388725,
+      0.9540385603904724,
+      0.041401032358407974
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0011001811362802982,
+      0.02175462618470192,
+      0.48220929503440857,
+      0.4949359595775604
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2023.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.316456943456501e-10,
+      3.901571290043648e-06,
+      0.07678552716970444,
+      0.9232105612754822
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00022602287936024368,
+      0.0006976310396566987,
+      0.015669098123908043,
+      0.983407199382782
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1891.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.367582769869678e-22,
+      1.314434515516051e-15,
+      4.3202544475207105e-06,
+      0.9999957084655762
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002686158404685557,
+      0.0006232184241525829,
+      0.011276098899543285,
+      0.9878321290016174
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3382.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.04645727202296257,
+      0.9502467513084412,
+      0.0032956295181065798,
+      3.863643769363989e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.519133985042572,
+      0.47525879740715027,
+      0.003714037360623479,
+      0.0018931441009044647
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2884.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0010487843537703156,
+      0.457736074924469,
+      0.5400505065917969,
+      0.0011645754566416144
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0904153436422348,
+      0.7180323004722595,
+      0.1685694307088852,
+      0.02298293448984623
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3397.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.214896751591034e-11,
+      1.680030337070093e-08,
+      0.001410500961355865,
+      0.9985894560813904
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002543866285122931,
+      0.000637833378277719,
+      0.012485467828810215,
+      0.9866222739219666
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1598.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.563640832901001,
+      0.43480220437049866,
+      0.0015510430093854666,
+      5.87014119446394e-06
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.5059982538223267,
+      0.4859926402568817,
+      0.005807979963719845,
+      0.002201111987233162
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1911.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.8020815849304199,
+      0.1977699249982834,
+      0.00014848218415863812,
+      1.966438956113592e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.06396647542715073,
+      0.9251828789710999,
+      0.009255084209144115,
+      0.0015956031857058406
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3012.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.001280668773688376,
+      0.9813971519470215,
+      0.01731959916651249,
+      2.6161078494624235e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.21103067696094513,
+      0.7805917859077454,
+      0.006299690343439579,
+      0.002077794633805752
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_982.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.6340644115597769e-12,
+      1.6068387509449167e-08,
+      0.007249127607792616,
+      0.992750883102417
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0004514258762355894,
+      0.0038597057573497295,
+      0.1618214249610901,
+      0.8338674306869507
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1127.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.000349021254805848,
+      0.07990378886461258,
+      0.9160174131393433,
+      0.0037298465613275766
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.003242949489504099,
+      0.24801842868328094,
+      0.7298466563224792,
+      0.018891986459493637
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3842.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00019302037253510207,
+      0.528786838054657,
+      0.468771368265152,
+      0.0022487761452794075
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.006918833125382662,
+      0.8476930260658264,
+      0.13964490592479706,
+      0.0057432078756392
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1804.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.7799725071654393e-07,
+      0.0005135052488185465,
+      0.30675208568573,
+      0.6927342414855957
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00021995260613039136,
+      0.0009922796161845326,
+      0.02671295590698719,
+      0.9720748066902161
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3645.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9999904632568359,
+      9.574840987625066e-06,
+      2.7661084534003066e-10,
+      6.362716343383257e-13
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9935991764068604,
+      0.0047905887477099895,
+      0.0008999640122056007,
+      0.0007102666422724724
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1464.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.3915682908846065e-05,
+      0.11114977300167084,
+      0.8456143140792847,
+      0.043191950768232346
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0021737306378781796,
+      0.10740356892347336,
+      0.7986257076263428,
+      0.09179707616567612
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1811.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      7.849604116927367e-06,
+      0.01844879612326622,
+      0.8295679688453674,
+      0.1519753783941269
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0023613579105585814,
+      0.08960095047950745,
+      0.7662615180015564,
+      0.14177612960338593
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3889.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.004291045945137739,
+      0.904794454574585,
+      0.09039306640625,
+      0.000521524460054934
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.01262740045785904,
+      0.7469979524612427,
+      0.22284188866615295,
+      0.017532719299197197
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_4014.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9723231196403503,
+      0.027673784643411636,
+      3.164457666571252e-06,
+      1.0778599367211594e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9091405272483826,
+      0.08805499225854874,
+      0.0016927856486290693,
+      0.0011117452522739768
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2972.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.999944806098938,
+      5.5217184126377106e-05,
+      2.03828438571918e-08,
+      3.060375520710923e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9962893724441528,
+      0.0019500880734995008,
+      0.0009192109573632479,
+      0.0008412430761381984
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3439.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0001716575352475047,
+      0.6925850510597229,
+      0.3062242269515991,
+      0.001019098679535091
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.03652358800172806,
+      0.5595669746398926,
+      0.36442598700523376,
+      0.03948350250720978
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1421.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.025322355329990387,
+      0.9678951501846313,
+      0.00678112730383873,
+      1.3858599459126708e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.03315944969654083,
+      0.5759303569793701,
+      0.34528398513793945,
+      0.04562615230679512
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_98.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.0007011652924120426,
+      0.2140001654624939,
+      0.7132432460784912,
+      0.0720553919672966
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0011563618900254369,
+      0.03796020895242691,
+      0.7002391815185547,
+      0.26064419746398926
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_443.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9826870560646057,
+      0.017294203862547874,
+      1.879645060398616e-05,
+      3.8166184102017553e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.942947506904602,
+      0.054606933146715164,
+      0.0015006697503849864,
+      0.0009449328063055873
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1896.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.6609115600585938,
+      0.339013010263443,
+      7.543154060840607e-05,
+      3.7066255620388233e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.3788784444332123,
+      0.6121846437454224,
+      0.006461027078330517,
+      0.002475844928994775
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_720.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9801771640777588,
+      0.019811363890767097,
+      1.1465994248283096e-05,
+      1.8016378389162924e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9791690707206726,
+      0.019045580178499222,
+      0.0010298832785338163,
+      0.0007554999319836497
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_157.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9851484298706055,
+      0.014817706309258938,
+      3.386176467756741e-05,
+      4.5150049032827155e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9603573083877563,
+      0.03735320642590523,
+      0.001425213529728353,
+      0.0008642901666462421
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1869.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      9.223619485965173e-07,
+      0.0008369058487005532,
+      0.07011985778808594,
+      0.9290422797203064
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.012587168253958225,
+      0.6378443837165833,
+      0.32673579454421997,
+      0.02283269725739956
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3075.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.2095693370517413e-12,
+      1.722301448126018e-07,
+      0.021716969087719917,
+      0.9782829284667969
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0004739403666462749,
+      0.004334219265729189,
+      0.15346471965312958,
+      0.841727077960968
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2095.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.0010222411947324872,
+      0.984555184841156,
+      0.01441488042473793,
+      7.699872185185086e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.0033903217408806086,
+      0.31870779395103455,
+      0.6492647528648376,
+      0.028637178242206573
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1654.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.012128680944442749,
+      0.9281604886054993,
+      0.05938982218503952,
+      0.000321028201142326
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.17935113608837128,
+      0.7650490403175354,
+      0.04732652008533478,
+      0.008273319341242313
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2543.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.603497326374054,
+      0.39623188972473145,
+      0.00027080398285761476,
+      1.3728420622527437e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.8398292064666748,
+      0.15665459632873535,
+      0.002184932818636298,
+      0.0013312514638528228
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3721.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.6939207248565253e-10,
+      2.5203535187756643e-05,
+      0.17746980488300323,
+      0.8225049376487732
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002591236843727529,
+      0.0015971404500305653,
+      0.05340445414185524,
+      0.9447393417358398
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2013.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9995288848876953,
+      0.0004710764915216714,
+      2.5231164713090948e-08,
+      4.578595749066272e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9912802577018738,
+      0.007091285195201635,
+      0.0009400735143572092,
+      0.0006884162430651486
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2307.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9881677031517029,
+      0.011636167764663696,
+      0.00018649523553904146,
+      9.6409312391188e-06
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.09811004996299744,
+      0.8490892052650452,
+      0.04543299600481987,
+      0.007367726415395737
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3567.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.531379550418933e-10,
+      1.2879705536761321e-05,
+      0.17948932945728302,
+      0.8204977512359619
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0033625203650444746,
+      0.34091612696647644,
+      0.6381465792655945,
+      0.01757480762898922
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2277.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9978109002113342,
+      0.0021865598391741514,
+      2.6426987460581586e-06,
+      2.7800417523593524e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9240946769714355,
+      0.07302278280258179,
+      0.001807600841857493,
+      0.0010748907225206494
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3545.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      7.645749428775162e-05,
+      0.7806764841079712,
+      0.21866922080516815,
+      0.0005778604536317289
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.007193784695118666,
+      0.505702793598175,
+      0.4705103933811188,
+      0.016592983156442642
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2182.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      4.46420926891733e-06,
+      0.9919278621673584,
+      0.008067015558481216,
+      7.501557206524012e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.008851478807628155,
+      0.8264464139938354,
+      0.15945997834205627,
+      0.005242137238383293
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2612.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.15891827642917633,
+      0.8403630256652832,
+      0.000718640920240432,
+      3.53812055209346e-08
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.926038920879364,
+      0.07074642181396484,
+      0.0020815448369830847,
+      0.0011330769630149007
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1243.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.49716403839212e-13,
+      1.4717357998961234e-07,
+      0.05093533173203468,
+      0.9490645527839661
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0009256459889002144,
+      0.016163408756256104,
+      0.5783727169036865,
+      0.40453824400901794
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2225.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.011870026588439941,
+      0.9800102114677429,
+      0.008117769844830036,
+      2.019395878960495e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.05420435592532158,
+      0.9228120446205139,
+      0.01981191337108612,
+      0.003171623218804598
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_998.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.435072055106957e-08,
+      0.0023307132069021463,
+      0.9860300421714783,
+      0.011639243923127651
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.001215198077261448,
+      0.05636446923017502,
+      0.806930661201477,
+      0.13548968732357025
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1041.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9991443157196045,
+      0.0008554487721994519,
+      2.503106770745944e-07,
+      7.495445236704867e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9960224628448486,
+      0.002199560170993209,
+      0.0009901764569804072,
+      0.000787796510849148
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3122.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.8904133439064026,
+      0.10724610090255737,
+      0.002303218236193061,
+      3.729806121555157e-05
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.4098641276359558,
+      0.5831132531166077,
+      0.005032573360949755,
+      0.0019900398328900337
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1726.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      3.056429704884067e-07,
+      0.07021976262331009,
+      0.9259657263755798,
+      0.003814163152128458
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.005313007161021233,
+      0.4035513997077942,
+      0.5555847883224487,
+      0.03555077314376831
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1064.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.2210935191633325e-08,
+      0.0008185668266378343,
+      0.32335469126701355,
+      0.6758267283439636
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.004255035892128944,
+      0.19581188261508942,
+      0.7226651906967163,
+      0.0772678405046463
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2004.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.11964430660009384,
+      0.8803263902664185,
+      2.9302947950782254e-05,
+      7.932839385382806e-10
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.6123791933059692,
+      0.38179054856300354,
+      0.004034298937767744,
+      0.0017959421966224909
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1185.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      3.751998156076297e-05,
+      0.013426944613456726,
+      0.8027418255805969,
+      0.18379372358322144
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0008434244664385915,
+      0.011667866259813309,
+      0.44699233770370483,
+      0.5404963493347168
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_581.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      2.020617830567062e-05,
+      0.01703495718538761,
+      0.9627335071563721,
+      0.02021133154630661
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.004315696656703949,
+      0.5865528583526611,
+      0.3975813388824463,
+      0.011550075374543667
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3789.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.006765451747924089,
+      0.8507835268974304,
+      0.1414024382829666,
+      0.001048568869009614
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.07255502045154572,
+      0.36328086256980896,
+      0.5005828738212585,
+      0.06358121335506439
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_4052.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.02484247460961342,
+      0.9415351152420044,
+      0.033533599227666855,
+      8.878114749677479e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.01577618718147278,
+      0.2802320420742035,
+      0.6251664757728577,
+      0.07882531732320786
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1745.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.6415006598435866e-07,
+      4.017745595774613e-05,
+      0.03238482400774956,
+      0.9675748944282532
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.04866641387343407,
+      0.7435835003852844,
+      0.18527236580848694,
+      0.022477662190794945
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2958.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      3.448795249383352e-09,
+      0.0009462360758334398,
+      0.8684521913528442,
+      0.13060157001018524
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.00441549438983202,
+      0.5539532899856567,
+      0.4292820394039154,
+      0.012349104508757591
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_649.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.5841700173879758e-09,
+      7.153674914661678e-07,
+      0.013522322289645672,
+      0.9864770174026489
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002430261083645746,
+      0.0007762009045109153,
+      0.01625986397266388,
+      0.9827209115028381
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1202.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.7499643564224243,
+      0.22178930044174194,
+      0.027931228280067444,
+      0.0003150696575175971
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.3002769351005554,
+      0.41537171602249146,
+      0.2577889859676361,
+      0.02656240575015545
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3692.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.999671459197998,
+      0.0003286061983089894,
+      3.6712300754970784e-08,
+      7.582696970320768e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9807294011116028,
+      0.01757453940808773,
+      0.0009416909306310117,
+      0.0007543304818682373
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1660.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0050590201281011105,
+      0.9625425338745117,
+      0.032350461930036545,
+      4.801990871783346e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.023796414956450462,
+      0.6744430065155029,
+      0.27486667037010193,
+      0.026893945410847664
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_302.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9999475479125977,
+      5.247728404356167e-05,
+      1.942090932516294e-09,
+      2.08604834794901e-13
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9944537281990051,
+      0.003482638858258724,
+      0.0012839409755542874,
+      0.0007795844576321542
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1688.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.8290059192422952e-16,
+      4.3907116983009364e-13,
+      5.676444743585307e-06,
+      0.9999942779541016
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00032646366162225604,
+      0.0005904754507355392,
+      0.009362680837512016,
+      0.9897202849388123
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3787.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9360554814338684,
+      0.06391259282827377,
+      3.187256515957415e-05,
+      2.7754469833496387e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.6692054271697998,
+      0.3259221315383911,
+      0.0032161844428628683,
+      0.0016562858363613486
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2214.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      2.8070147095604625e-07,
+      0.9666942358016968,
+      0.0332590751349926,
+      4.64084223494865e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.016335221007466316,
+      0.8421146273612976,
+      0.13285943865776062,
+      0.008690707385540009
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1942.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.2550907362018915e-11,
+      1.342121777270222e-06,
+      0.04185761883854866,
+      0.958141028881073
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002642330655362457,
+      0.0011128995101898909,
+      0.037516362965106964,
+      0.961106538772583
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2109.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      2.1006948372814804e-05,
+      0.9347598552703857,
+      0.06502149999141693,
+      0.00019765835895668715
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.0159184280782938,
+      0.9567065834999084,
+      0.025219427421689034,
+      0.002155472757294774
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3187.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.5455811023712158,
+      0.4541535973548889,
+      0.00026535490178503096,
+      9.054317851031612e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.2774648666381836,
+      0.7141224145889282,
+      0.0061151715926826,
+      0.0022975695319473743
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_435.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9998338222503662,
+      0.0001660911802900955,
+      4.871433478825793e-09,
+      2.86649474772957e-13
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9962893724441528,
+      0.0019500880734995008,
+      0.0009192109573632479,
+      0.0008412430761381984
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_518.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.11582522839307785,
+      0.8841506838798523,
+      2.406637759122532e-05,
+      2.7879754060933237e-11
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.4695378243923187,
+      0.5249699950218201,
+      0.003650072729215026,
+      0.0018420834094285965
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1074.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00810788944363594,
+      0.9835967421531677,
+      0.008294551633298397,
+      7.815283993295452e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.15045975148677826,
+      0.7171480655670166,
+      0.1151089295744896,
+      0.017283201217651367
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_319.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      7.888204891060013e-06,
+      0.020829860121011734,
+      0.8559403419494629,
+      0.1232219710946083
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0004640755651053041,
+      0.0037395055405795574,
+      0.14325954020023346,
+      0.8525369167327881
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_186.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9999872446060181,
+      1.2752023394568823e-05,
+      6.107477718009235e-11,
+      1.9352839372276803e-15
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9962893724441528,
+      0.0019500880734995008,
+      0.0009192109573632479,
+      0.0008412430761381984
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_4027.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.1539464145898819,
+      0.516254186630249,
+      0.2943100333213806,
+      0.03548938035964966
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.10571383684873581,
+      0.7654005885124207,
+      0.11132490634918213,
+      0.017560657113790512
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3329.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      8.652968119804427e-08,
+      0.007988112978637218,
+      0.9916682243347168,
+      0.00034350185887888074
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.002140740631148219,
+      0.14143423736095428,
+      0.7948448657989502,
+      0.06158015504479408
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1331.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.731706783860478e-12,
+      5.517930001808224e-10,
+      8.762959623709321e-05,
+      0.9999123811721802
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002909138856921345,
+      0.0006055723060853779,
+      0.013248927891254425,
+      0.9858545660972595
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2683.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      7.004381519237768e-09,
+      0.0005821855156682432,
+      0.9803941249847412,
+      0.01902371272444725
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.00564572075381875,
+      0.6798080205917358,
+      0.3052939772605896,
+      0.009252303279936314
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3006.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.6140064597129822,
+      0.3815229833126068,
+      0.004446596838533878,
+      2.388941175013315e-05
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.11673559248447418,
+      0.8668420314788818,
+      0.01372577529400587,
+      0.0026966198347508907
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2760.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.1396427740683066e-08,
+      5.569314680542448e-07,
+      0.0014289462706074119,
+      0.998570442199707
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002892480115406215,
+      0.0005943715223111212,
+      0.010320156812667847,
+      0.9887962341308594
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3712.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      6.760560861129861e-11,
+      2.3751296485130524e-09,
+      9.377889364259318e-05,
+      0.9999061822891235
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00026379228802397847,
+      0.0006437273696064949,
+      0.011421944946050644,
+      0.9876705408096313
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3717.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.999145672276057e-16,
+      5.39860413317772e-11,
+      0.000323893764289096,
+      0.9996761083602905
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0004984258557669818,
+      0.0043338593095541,
+      0.14713521301746368,
+      0.848032534122467
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3732.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.582667590732667e-12,
+      3.159348824222086e-11,
+      3.836247287836159e-06,
+      0.9999961853027344
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002621628809720278,
+      0.0006156872259452939,
+      0.01071858685463667,
+      0.9884036183357239
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1872.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.28295159339904785,
+      0.7134002447128296,
+      0.0036472969222813845,
+      8.284231967081723e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.08251034468412399,
+      0.8875654339790344,
+      0.025482656434178352,
+      0.004441626835614443
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_369.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.2005693206078305e-13,
+      4.4754999706242415e-10,
+      0.0001370277168462053,
+      0.9998629093170166
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002374315808992833,
+      0.000687405641656369,
+      0.01619647815823555,
+      0.9828786849975586
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2424.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00013914433657191694,
+      0.9738431572914124,
+      0.025981096550822258,
+      3.662234666990116e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.018665075302124023,
+      0.9610718488693237,
+      0.01859068125486374,
+      0.0016723476583138108
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_397.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.6183723211288452,
+      0.3815023899078369,
+      0.00012532377149909735,
+      5.726243923476204e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.6312897205352783,
+      0.36264151334762573,
+      0.004202617798000574,
+      0.0018661385402083397
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1305.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.262806741709563e-13,
+      6.690510125084703e-12,
+      3.4916420190711506e-06,
+      0.999996542930603
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0003222623490728438,
+      0.0005986306932754815,
+      0.009345455095171928,
+      0.9897336363792419
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_606.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.8814936876296997,
+      0.11837457865476608,
+      0.00013167275756131858,
+      3.335355813760543e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.057765960693359375,
+      0.9266109466552734,
+      0.01346635539084673,
+      0.0021567505318671465
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1347.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9998664855957031,
+      0.00013334088725969195,
+      6.771595195687041e-08,
+      1.9459321307091493e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9962893724441528,
+      0.0019500880734995008,
+      0.0009192109573632479,
+      0.0008412430761381984
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3264.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.8221363425254822,
+      0.17600174248218536,
+      0.001849052612669766,
+      1.2819047697121277e-05
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.04636441916227341,
+      0.9447181820869446,
+      0.007551447954028845,
+      0.0013659476535394788
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3883.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.172603456671254e-10,
+      3.2080373784992844e-05,
+      0.1418510228395462,
+      0.858116865158081
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.008645853959023952,
+      0.26378288865089417,
+      0.6479881405830383,
+      0.07958310842514038
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2996.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9993011951446533,
+      0.0006986962980590761,
+      1.2091271628378308e-07,
+      1.3552251335036125e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9933111667633057,
+      0.0033686815295368433,
+      0.0022799749858677387,
+      0.0010401709005236626
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_815.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.7182457205373956e-15,
+      2.430740331238468e-10,
+      0.0013855790020897985,
+      0.9986144304275513
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0004568783915601671,
+      0.002982092322781682,
+      0.11680088937282562,
+      0.8797601461410522
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_784.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.32230645418167114,
+      0.3212817907333374,
+      0.3211531937122345,
+      0.035258617252111435
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.007233787793666124,
+      0.8353880643844604,
+      0.15141038596630096,
+      0.0059677246026694775
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3471.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      6.671710961470012e-10,
+      0.029897062107920647,
+      0.9688053131103516,
+      0.0012975913705304265
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.005594640038907528,
+      0.43594712018966675,
+      0.5212056040763855,
+      0.03725263103842735
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3492.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.2382282932321687e-07,
+      0.0123672503978014,
+      0.9081040024757385,
+      0.07952867448329926
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.00740971090272069,
+      0.16708232462406158,
+      0.7316091060638428,
+      0.09389887750148773
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3485.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00019478997273836285,
+      0.9014099836349487,
+      0.09837190061807632,
+      2.327024776604958e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.030612070113420486,
+      0.9398730993270874,
+      0.026691583916544914,
+      0.0028232596814632416
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_4091.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.1758045166850029e-13,
+      3.834505150734913e-06,
+      0.22341541945934296,
+      0.7765807509422302
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.000598689541220665,
+      0.0073346649296581745,
+      0.23198093473911285,
+      0.7600857615470886
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_805.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.1835556534833813e-08,
+      0.00239140959456563,
+      0.863052248954773,
+      0.134556382894516
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.00026255057309754193,
+      0.0015018997946754098,
+      0.04283256456255913,
+      0.9554029703140259
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3089.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.06580286210567e-09,
+      0.0002733696310315281,
+      0.40479883551597595,
+      0.5949277877807617
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0019913034047931433,
+      0.05654257908463478,
+      0.6964365839958191,
+      0.2450295090675354
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_809.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.260001658565102e-09,
+      8.348879055120051e-05,
+      0.4809727370738983,
+      0.5189437866210938
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00023985111329238862,
+      0.0013067026156932116,
+      0.038369227200746536,
+      0.9600841999053955
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2151.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      8.560295100323856e-05,
+      0.9806662201881409,
+      0.019237864762544632,
+      1.0234448382107075e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.011363161727786064,
+      0.9287238121032715,
+      0.056956738233566284,
+      0.00295621482655406
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2187.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00010594822379061952,
+      0.995363712310791,
+      0.004523849114775658,
+      6.476296221080702e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.011094369925558567,
+      0.9414345026016235,
+      0.044778745621442795,
+      0.0026923436671495438
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2061.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.03207048401236534,
+      0.9645327925682068,
+      0.0033964035101234913,
+      3.8268851199063647e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.005751485470682383,
+      0.502859354019165,
+      0.4685744345188141,
+      0.022814705967903137
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2951.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      7.208215606624435e-07,
+      0.18318627774715424,
+      0.8158458471298218,
+      0.0009671612060628831
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.015849603340029716,
+      0.9113014340400696,
+      0.06992017477750778,
+      0.0029287757351994514
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_714.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.021589385345578194,
+      0.9772807955741882,
+      0.0011296733282506466,
+      6.93658606110148e-08
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.02483808621764183,
+      0.6827712655067444,
+      0.2644262909889221,
+      0.027964305132627487
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_875.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      6.766348087694496e-05,
+      0.7717220187187195,
+      0.22796937823295593,
+      0.00024091496015898883
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.018697937950491905,
+      0.9234708547592163,
+      0.05355796962976456,
+      0.004273232538253069
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2159.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0013377228751778603,
+      0.9980992674827576,
+      0.0005629448569379747,
+      1.2818674122172524e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.03968268260359764,
+      0.9488557577133179,
+      0.009869479574263096,
+      0.0015920710284262896
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_4135.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.998965859413147,
+      0.0010339886648580432,
+      1.019889879216862e-07,
+      6.769841306465685e-13
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9953804016113281,
+      0.0029446682892739773,
+      0.0009403014555573463,
+      0.0007346511702053249
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2204.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0016974059399217367,
+      0.9963952898979187,
+      0.0019070964772254229,
+      2.2406973698707588e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.010658501647412777,
+      0.9283974170684814,
+      0.05762637406587601,
+      0.0033177868463099003
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1129.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0021542850881814957,
+      0.7258062362670898,
+      0.27180033922195435,
+      0.00023913888435345143
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.21147829294204712,
+      0.774630606174469,
+      0.01078611146658659,
+      0.003104978008195758
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2748.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      9.896070074510988e-12,
+      9.195104553327837e-07,
+      0.03743584454059601,
+      0.9625632762908936
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002315469755558297,
+      0.0007230707560665905,
+      0.01762775518000126,
+      0.981417715549469
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3330.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.4786496649321634e-05,
+      0.06798550486564636,
+      0.9313200116157532,
+      0.0006797012174502015
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.002154853194952011,
+      0.138683021068573,
+      0.8348590731620789,
+      0.024303073063492775
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2048.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.003395705483853817,
+      0.35079023241996765,
+      0.6061596274375916,
+      0.0396544523537159
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.004250426311045885,
+      0.0754098892211914,
+      0.6344833374023438,
+      0.28585636615753174
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1468.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.8928218398505123e-07,
+      0.002346183406189084,
+      0.7798108458518982,
+      0.21784262359142303
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.002304122317582369,
+      0.09158553183078766,
+      0.8493940234184265,
+      0.05671637877821922
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_4113.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.9573013348983537e-11,
+      6.798111371608684e-07,
+      0.011564364656805992,
+      0.988434910774231
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0012627188116312027,
+      0.02251829020678997,
+      0.5577139854431152,
+      0.4185050427913666
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2646.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9992627501487732,
+      0.0007372114341706038,
+      1.1339121641640304e-08,
+      8.351060186255477e-13
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.6983392238616943,
+      0.2942119240760803,
+      0.005330124404281378,
+      0.0021187246311455965
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2312.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.8208312364295125e-05,
+      0.05417345091700554,
+      0.7218742370605469,
+      0.22390411794185638
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.004105139058083296,
+      0.1768917739391327,
+      0.695168137550354,
+      0.12383488565683365
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_371.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00424322672188282,
+      0.835111141204834,
+      0.16042965650558472,
+      0.00021589054085779935
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.017392469570040703,
+      0.9553314447402954,
+      0.025557741522789,
+      0.001718339859507978
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3720.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      6.411617903268052e-10,
+      3.221132089947787e-07,
+      0.005951317958533764,
+      0.9940483570098877
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00023463000252377242,
+      0.0006566005758941174,
+      0.013336274772882462,
+      0.9857725501060486
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2864.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.08422451466321945,
+      0.9140884280204773,
+      0.001686875824816525,
+      1.2331651078056893e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.2330528199672699,
+      0.7599021792411804,
+      0.005053434520959854,
+      0.0019915541633963585
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3379.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.135113383403223e-07,
+      0.004231036640703678,
+      0.3858962655067444,
+      0.6098721027374268
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0003070960519835353,
+      0.0016404951456934214,
+      0.04410389065742493,
+      0.9539484977722168
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2341.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.0753303509610816e-10,
+      0.0003061152820009738,
+      0.872728168964386,
+      0.12696576118469238
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0014733278658241034,
+      0.09986226260662079,
+      0.8084839582443237,
+      0.09018049389123917
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_154.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      8.578090494870683e-13,
+      1.4396795222637593e-07,
+      0.021784765645861626,
+      0.9782150983810425
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00022936494497116655,
+      0.000800636422354728,
+      0.021720830351114273,
+      0.9772491455078125
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_831.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9666191339492798,
+      0.03298209235072136,
+      0.0003985075745731592,
+      3.3882301408993953e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9123138189315796,
+      0.08355578035116196,
+      0.0029119334649294615,
+      0.0012184791266918182
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2525.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.8113985788659193e-05,
+      0.04882224276661873,
+      0.8852109909057617,
+      0.06594857573509216
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0013184120180085301,
+      0.04203053563833237,
+      0.7680364847183228,
+      0.18861451745033264
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3409.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.0027125596534460783,
+      0.7779760360717773,
+      0.2174084484577179,
+      0.0019029988907277584
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.28284868597984314,
+      0.7007612586021423,
+      0.012652158737182617,
+      0.0037378992419689894
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3890.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.6971622705459595,
+      0.3024892807006836,
+      0.0003483624313957989,
+      3.771210188574514e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.8681827187538147,
+      0.12654896080493927,
+      0.003809807589277625,
+      0.0014585424214601517
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3393.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9985436201095581,
+      0.001454688492231071,
+      1.640243908695993e-06,
+      4.5926287772779517e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9851123690605164,
+      0.013181247748434544,
+      0.0009797656675800681,
+      0.0007266176980920136
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1446.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.9928687581559643e-06,
+      0.10018916428089142,
+      0.8796418905258179,
+      0.020165883004665375
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.003966223914176226,
+      0.20088687539100647,
+      0.7025464177131653,
+      0.092600516974926
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_963.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.997279395505371e-13,
+      4.0416844626633974e-07,
+      0.03359193727374077,
+      0.9664075374603271
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00021336933423299342,
+      0.000808632408734411,
+      0.01973271369934082,
+      0.9792453050613403
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_293.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.4274367278466205e-12,
+      5.566129743783677e-07,
+      0.08307390660047531,
+      0.9169255495071411
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0013166393619030714,
+      0.0356016643345356,
+      0.7266237735748291,
+      0.2364579141139984
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2394.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9966417551040649,
+      0.0033488317858427763,
+      9.39405981625896e-06,
+      2.3418140315811797e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9842186570167542,
+      0.014136145822703838,
+      0.0008884541457518935,
+      0.0007567846914753318
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_93.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.6441459059715271,
+      0.35550665855407715,
+      0.00034728425089269876,
+      7.271700752653487e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.11887991428375244,
+      0.8723316192626953,
+      0.007000260055065155,
+      0.001788258901797235
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1849.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.8518733382225037,
+      0.14810237288475037,
+      2.4236698664026335e-05,
+      6.93167634402414e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.2922213077545166,
+      0.6959514021873474,
+      0.00897388905286789,
+      0.002853336278349161
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_4169.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.6343309626638824e-13,
+      1.103756019915636e-08,
+      0.004447066690772772,
+      0.9955529570579529
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0005618435679934919,
+      0.004746117163449526,
+      0.17641222476959229,
+      0.8182798624038696
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1312.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0005057143862359226,
+      0.9864616990089417,
+      0.013026752509176731,
+      5.859176781086717e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.09805237501859665,
+      0.8611924648284912,
+      0.03477148339152336,
+      0.0059836977161467075
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1136.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.9437631964683533,
+      0.0562264509499073,
+      1.0386053872935008e-05,
+      2.3972279716844014e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.21625694632530212,
+      0.7750979661941528,
+      0.006577186286449432,
+      0.0020678711589425802
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3915.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0222819484770298,
+      0.96222323179245,
+      0.015480056405067444,
+      1.4770374946238007e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.007305982522666454,
+      0.6278576850891113,
+      0.3472523093223572,
+      0.017584016546607018
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_4013.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0981425940990448,
+      0.9009628891944885,
+      0.0008944630972109735,
+      1.5601424152578147e-08
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.3596509099006653,
+      0.6345107555389404,
+      0.004046070855110884,
+      0.0017922073602676392
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2025.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0014159540878608823,
+      0.9927172660827637,
+      0.005866051185876131,
+      7.241191042339779e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.010090450756251812,
+      0.7565374374389648,
+      0.22055570781230927,
+      0.012816334143280983
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1006.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.060263410210485e-13,
+      2.079638239393944e-09,
+      0.000936273077968508,
+      0.9990637898445129
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00044021554640494287,
+      0.0006170744309201837,
+      0.007799037732183933,
+      0.9911437034606934
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_338.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9988960027694702,
+      0.0011034359922632575,
+      5.298725227476098e-07,
+      1.0755955154317931e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9953781366348267,
+      0.0026976442895829678,
+      0.0011232926044613123,
+      0.0008008352597244084
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1593.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.103897748881536e-09,
+      0.014523052610456944,
+      0.9440369009971619,
+      0.041440051048994064
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0030821349937468767,
+      0.0455344133079052,
+      0.5755095481872559,
+      0.3758738934993744
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1437.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0009166154195554554,
+      0.8249877095222473,
+      0.17230117321014404,
+      0.0017945446306839585
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.07173049449920654,
+      0.9176934361457825,
+      0.008698561228811741,
+      0.0018774786731228232
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_279.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.987686812877655,
+      0.012231003493070602,
+      8.140823774738237e-05,
+      7.583197998428659e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.99395751953125,
+      0.004062273073941469,
+      0.0012131610419601202,
+      0.0007670111954212189
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1170.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.004636738449335098,
+      0.6108576059341431,
+      0.3814048171043396,
+      0.0031009053345769644
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.006742160301655531,
+      0.8149803876876831,
+      0.17265482246875763,
+      0.005622658878564835
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      5.370665166992694e-05,
+      0.05174030363559723,
+      0.9254154562950134,
+      0.02279052324593067
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.014752921648323536,
+      0.9382729530334473,
+      0.04419838637113571,
+      0.0027757189236581326
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2271.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      7.324056059587747e-05,
+      0.10783786326646805,
+      0.818911075592041,
+      0.07317786663770676
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.006886521354317665,
+      0.8045433759689331,
+      0.18091711401939392,
+      0.007653011474758387
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1727.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.691184608494268e-09,
+      0.002611626870930195,
+      0.9759519100189209,
+      0.02143646590411663
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0034268435556441545,
+      0.16698095202445984,
+      0.7618927359580994,
+      0.06769952923059464
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_906.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9997434020042419,
+      0.0002566178736742586,
+      4.223334215680552e-08,
+      2.481448857158397e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.8973818421363831,
+      0.09935522824525833,
+      0.0021203693468123674,
+      0.0011425947304815054
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2761.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.699045881764505e-08,
+      2.5721598717609595e-07,
+      0.000743677606806159,
+      0.9992560744285583
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0003264104016125202,
+      0.000609764305409044,
+      0.008680714294314384,
+      0.9903830885887146
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_191.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      7.241608232662865e-15,
+      8.023932629441788e-10,
+      0.001307619153521955,
+      0.9986924529075623
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00024901318829506636,
+      0.0008367663831450045,
+      0.024260910227894783,
+      0.9746533036231995
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3118.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.885216474533081,
+      0.11477597802877426,
+      7.517997801187448e-06,
+      5.296146160516102e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9467540383338928,
+      0.04708871990442276,
+      0.00476335734128952,
+      0.001393954618833959
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1501.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      1.138984316639835e-06,
+      0.4463108479976654,
+      0.5530903339385986,
+      0.000597736390773207
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.012997448444366455,
+      0.7791548371315002,
+      0.19506685435771942,
+      0.012780806049704552
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2142.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.0236925593053456e-06,
+      0.047916214913129807,
+      0.9452286958694458,
+      0.006853017956018448
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.002960428362712264,
+      0.21139384806156158,
+      0.7440107464790344,
+      0.04163504019379616
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2765.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.184187301665588e-08,
+      2.9499481115635717e-06,
+      0.008968069218099117,
+      0.991028904914856
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00023628355120308697,
+      0.0006466589402407408,
+      0.012361645698547363,
+      0.9867554306983948
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2898.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.3488157694373513e-06,
+      0.03908878564834595,
+      0.9354375004768372,
+      0.025471339002251625
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0031319018453359604,
+      0.25359490513801575,
+      0.722345232963562,
+      0.020927969366312027
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3080.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.7476733326911926,
+      0.25224217772483826,
+      8.442308899248019e-05,
+      8.377595284159156e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.6095026135444641,
+      0.37981587648391724,
+      0.008112940937280655,
+      0.002568531781435013
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1079.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0002498220419511199,
+      0.9477167725563049,
+      0.05202178657054901,
+      1.1614585673669353e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.05764896050095558,
+      0.9187021851539612,
+      0.02056359127163887,
+      0.0030852798372507095
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1859.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.1974544689152822e-09,
+      0.00030104152392596006,
+      0.7814702987670898,
+      0.21822863817214966
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0007860708283260465,
+      0.013291862793266773,
+      0.4037139117717743,
+      0.5822080969810486
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2352.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.4829892522327803e-11,
+      3.850659777526744e-05,
+      0.7577863931655884,
+      0.2421751469373703
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0014189311768859625,
+      0.04443289339542389,
+      0.8250078558921814,
+      0.12914025783538818
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3548.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00045165501069277525,
+      0.8634616732597351,
+      0.13594014942646027,
+      0.00014647352509200573
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.0050209597684443,
+      0.5305657386779785,
+      0.4501958191394806,
+      0.014217559248209
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_333.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9800671935081482,
+      0.019928371533751488,
+      4.484761575440643e-06,
+      7.324695294741446e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.977493166923523,
+      0.020407265052199364,
+      0.001297168666496873,
+      0.0008023633272387087
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_198.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.434556778923124e-10,
+      2.1724365524278255e-06,
+      0.0156776774674654,
+      0.9843201041221619
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.004724256694316864,
+      0.21685604751110077,
+      0.7061259746551514,
+      0.0722937136888504
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_326.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.043793532997369766,
+      0.9556075930595398,
+      0.0005987299955449998,
+      9.0231104366012e-08
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.15850430727005005,
+      0.76804119348526,
+      0.06311749666929245,
+      0.01033700630068779
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3565.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.3084010674901947e-07,
+      0.010707825422286987,
+      0.9749345779418945,
+      0.014357469044625759
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.001940897316671908,
+      0.1169004961848259,
+      0.8423388004302979,
+      0.038819801062345505
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1035.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0022622174583375454,
+      0.8693040013313293,
+      0.12782001495361328,
+      0.0006137702730484307
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.06255614012479782,
+      0.8758345246315002,
+      0.054332152009010315,
+      0.007277255412191153
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2010.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.1500160818941367e-07,
+      0.03998807072639465,
+      0.9161511659622192,
+      0.04386039078235626
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0016167204594239593,
+      0.07225169241428375,
+      0.8378302454948425,
+      0.08830127120018005
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2910.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0001550436281831935,
+      0.8710756897926331,
+      0.1286827176809311,
+      8.65086039993912e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.01924852281808853,
+      0.957297682762146,
+      0.02162916213274002,
+      0.0018246237887069583
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2241.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      3.1881396012067853e-07,
+      0.32892078161239624,
+      0.6697190999984741,
+      0.0013597762444987893
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.02302047610282898,
+      0.8290041089057922,
+      0.13803528249263763,
+      0.009940092451870441
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2338.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.008197679184377193,
+      0.8233414888381958,
+      0.16129115223884583,
+      0.0071696508675813675
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.013532476499676704,
+      0.589482307434082,
+      0.36946380138397217,
+      0.02752135507762432
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2034.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.5792784690856934,
+      0.42029938101768494,
+      0.0004220429400447756,
+      8.217905644869461e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.1851576864719391,
+      0.8078407645225525,
+      0.005224875174462795,
+      0.0017766496166586876
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_679.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      6.629424547099916e-07,
+      0.9928086996078491,
+      0.0071904584765434265,
+      2.46681963744777e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.008614788763225079,
+      0.7746871709823608,
+      0.2088535726070404,
+      0.007844522595405579
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_343.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9906009435653687,
+      0.009243256412446499,
+      0.00015545092173852026,
+      3.5460348613014503e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9881991147994995,
+      0.004458006005734205,
+      0.005585212726145983,
+      0.001757627003826201
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3926.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.567960587564812e-08,
+      0.023038268089294434,
+      0.9516177773475647,
+      0.02534393034875393
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0014490787871181965,
+      0.08723472058773041,
+      0.7953700423240662,
+      0.11594613641500473
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2715.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0031787005718797445,
+      0.6971476674079895,
+      0.299174964427948,
+      0.0004986125277355313
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.008899870328605175,
+      0.900177001953125,
+      0.08634243160486221,
+      0.004580729641020298
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_4043.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.822795374864741e-12,
+      7.320840378355342e-09,
+      0.00047734807594679296,
+      0.9995226860046387
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00022129181888885796,
+      0.0007718298584222794,
+      0.019622724503278732,
+      0.9793841242790222
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1965.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.7577126622200012,
+      0.2422545850276947,
+      3.2749729143688455e-05,
+      6.39186703565997e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9446980357170105,
+      0.05301905795931816,
+      0.0013192550977692008,
+      0.0009636053000576794
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_4008.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.2846754042505903e-11,
+      4.424351573106833e-06,
+      0.26615747809410095,
+      0.7338380813598633
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00024636375019326806,
+      0.0015079149743542075,
+      0.05309857428073883,
+      0.9451472163200378
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2921.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9954641461372375,
+      0.00452400790527463,
+      1.1729426660167519e-05,
+      1.5324457081078435e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.992111086845398,
+      0.0032495667692273855,
+      0.0033317217603325844,
+      0.0013075349852442741
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3529.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9796345829963684,
+      0.020320752635598183,
+      4.453735164133832e-05,
+      1.576462125285616e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9849165081977844,
+      0.012428397312760353,
+      0.001808648114092648,
+      0.000846482056658715
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2300.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0015214052982628345,
+      0.9868757724761963,
+      0.011602434329688549,
+      3.3184494441229617e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.05800997465848923,
+      0.844638466835022,
+      0.08522747457027435,
+      0.01212410070002079
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_310.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0002892107586376369,
+      0.7063549160957336,
+      0.292519211769104,
+      0.0008366675465367734
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.03500084951519966,
+      0.8806616067886353,
+      0.07570556551218033,
+      0.008632072247564793
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1346.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.144339150689234e-09,
+      2.6653671739040874e-05,
+      0.07504907995462418,
+      0.9249242544174194
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0012461752630770206,
+      0.04263579845428467,
+      0.7893998026847839,
+      0.1667182445526123
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3464.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      1.3760141882812604e-05,
+      0.03391712158918381,
+      0.8587706089019775,
+      0.10729853063821793
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0024981216993182898,
+      0.11710955202579498,
+      0.7992929816246033,
+      0.08109930157661438
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1661.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      4.055052613693988e-07,
+      0.03307671099901199,
+      0.9624466300010681,
+      0.004476189613342285
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.012793331407010555,
+      0.9324413537979126,
+      0.052113600075244904,
+      0.0026517738588154316
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1373.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.019077638164162636,
+      0.9376792311668396,
+      0.04316027835011482,
+      8.282758790301159e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.036024272441864014,
+      0.9531094431877136,
+      0.00945715606212616,
+      0.0014091068878769875
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2727.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0008769409614615142,
+      0.9933547973632812,
+      0.005767492111772299,
+      8.794719406068907e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.25175490975379944,
+      0.7302862405776978,
+      0.014023845084011555,
+      0.003935073968023062
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_874.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9708796739578247,
+      0.02884048782289028,
+      0.00027789740124717355,
+      1.935021828103345e-06
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.33322009444236755,
+      0.6390992999076843,
+      0.022999079897999763,
+      0.004681523889303207
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2563.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.7344284653663635,
+      0.26162564754486084,
+      0.003941582050174475,
+      4.315701062296284e-06
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.04606378823518753,
+      0.9245233535766602,
+      0.0256965272128582,
+      0.003716295352205634
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3977.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.006601357366889715,
+      0.9894027709960938,
+      0.003995330072939396,
+      5.106124945086776e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.16072650253772736,
+      0.8227559924125671,
+      0.013050450943410397,
+      0.0034670436289161444
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_197.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      2.9844034088455373e-07,
+      0.4162959158420563,
+      0.5815161466598511,
+      0.002187656005844474
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.006709064356982708,
+      0.5126757025718689,
+      0.46833714842796326,
+      0.012278088368475437
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_843.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.779241103347251e-14,
+      4.1114655083274165e-12,
+      4.076977802469628e-06,
+      0.9999959468841553
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00040430494118481874,
+      0.000617717276327312,
+      0.00854780524969101,
+      0.9904301762580872
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2949.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      9.36255764827365e-06,
+      0.2729599177837372,
+      0.726473867893219,
+      0.0005568615160882473
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.008288026787340641,
+      0.8090018630027771,
+      0.17788507044315338,
+      0.004825068172067404
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2336.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      7.565159467048943e-05,
+      0.81084805727005,
+      0.18815357983112335,
+      0.0009226834517903626
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.039860598742961884,
+      0.9499728679656982,
+      0.008770973421633244,
+      0.0013955022441223264
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2551.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.6561230421066284,
+      0.3438137173652649,
+      6.328989547910169e-05,
+      9.05634789383214e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.12239392846822739,
+      0.8693190217018127,
+      0.006494350265711546,
+      0.0017927387962117791
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_203.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00011030833411496133,
+      0.9774073362350464,
+      0.022480100393295288,
+      2.3761858756188303e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.026779966428875923,
+      0.9542621970176697,
+      0.01694401167333126,
+      0.002013847464695573
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_611.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      8.118715477678506e-09,
+      0.012763934209942818,
+      0.9751478433609009,
+      0.0120881712064147
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0031406551133841276,
+      0.259834349155426,
+      0.7122794389724731,
+      0.02474559098482132
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_4163.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.4053238607536489e-11,
+      3.288114021415822e-05,
+      0.24673080444335938,
+      0.7532363533973694
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0056471568532288074,
+      0.35716453194618225,
+      0.5995474457740784,
+      0.03764086589217186
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1220.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      1.0387081061935532e-07,
+      0.000483811367303133,
+      0.8823136687278748,
+      0.11720240116119385
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0010674081277102232,
+      0.027919646352529526,
+      0.6646667718887329,
+      0.3063461482524872
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1516.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0007922151708044112,
+      0.06488779932260513,
+      0.9156094789505005,
+      0.018710553646087646
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.07407862693071365,
+      0.8012556433677673,
+      0.11008117347955704,
+      0.014584623277187347
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_441.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.811513364315033,
+      0.18463315069675446,
+      0.003843275597319007,
+      1.0159788871533237e-05
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.2626754939556122,
+      0.7291880249977112,
+      0.006001377943903208,
+      0.0021351880859583616
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_359.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.0001432424469385296,
+      0.12868817150592804,
+      0.8047751188278198,
+      0.06639344245195389
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.004501153249293566,
+      0.4545990526676178,
+      0.5280081629753113,
+      0.01289165485650301
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_217.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.658529208749872e-12,
+      2.0504884901129117e-08,
+      0.007246588356792927,
+      0.9927533268928528
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.000796385807916522,
+      0.008846664801239967,
+      0.3884311020374298,
+      0.6019258499145508
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_836.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.347855853126248e-09,
+      0.042222898453474045,
+      0.9521040320396423,
+      0.0056730108335614204
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.004645031411200762,
+      0.28794020414352417,
+      0.6551837921142578,
+      0.052231013774871826
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_685.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      0.00019068713299930096,
+      5.20048379257787e-05,
+      0.0012837920803576708,
+      0.9984734654426575
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0005300993216224015,
+      0.003904289100319147,
+      0.15236617624759674,
+      0.8431993722915649
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_55.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9987737536430359,
+      0.0012262664968147874,
+      6.533733554192622e-09,
+      3.912004387421862e-14
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.967267632484436,
+      0.03049640916287899,
+      0.0013741882285103202,
+      0.000861792650539428
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2546.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9994799494743347,
+      0.0005195088451728225,
+      5.995028686811565e-07,
+      5.791297441604115e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9951363205909729,
+      0.0029625464230775833,
+      0.0011374197201803327,
+      0.0007636999362148345
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2593.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9610211849212646,
+      0.03897674381732941,
+      2.024592959060101e-06,
+      9.436985221045191e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.8539087176322937,
+      0.1390361785888672,
+      0.005375146400183439,
+      0.0016799552831798792
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3994.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.6448421497924386e-11,
+      0.0005224880296736956,
+      0.9077672362327576,
+      0.09171026945114136
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0009410835336893797,
+      0.01740487664937973,
+      0.48932570219039917,
+      0.4923282563686371
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1125.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      3.21398303526621e-08,
+      0.005039132200181484,
+      0.9774894118309021,
+      0.017471468076109886
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0018066137563437223,
+      0.1121315285563469,
+      0.8077123165130615,
+      0.07834947854280472
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3955.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.7301163077354431,
+      0.2689804434776306,
+      0.0009027132764458656,
+      5.049313926974719e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.6121875047683716,
+      0.3698924779891968,
+      0.01447662990540266,
+      0.0034433789551258087
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3188.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.12473982572555542,
+      0.8696970343589783,
+      0.00556302210316062,
+      1.1069858629753071e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.1691957265138626,
+      0.8214059472084045,
+      0.007276975084096193,
+      0.002121399389579892
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3576.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      5.616944349640107e-07,
+      0.013185842894017696,
+      0.9533056020736694,
+      0.03350793570280075
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0011761412024497986,
+      0.03437129408121109,
+      0.718313455581665,
+      0.24613916873931885
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_498.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.7365145683288574,
+      0.2634107768535614,
+      7.464823283953592e-05,
+      6.52532108347259e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.6447797417640686,
+      0.3498825132846832,
+      0.0036012912169098854,
+      0.001736397622153163
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1955.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00513041764497757,
+      0.9889261722564697,
+      0.005943331867456436,
+      4.8337096103523436e-08
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.04690229147672653,
+      0.9141324758529663,
+      0.034450460225343704,
+      0.004514731001108885
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3750.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      3.830875357380137e-06,
+      0.007409301586449146,
+      0.8271011710166931,
+      0.1654857099056244
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0014722112100571394,
+      0.06281688809394836,
+      0.77217036485672,
+      0.16354049742221832
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3810.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9891246557235718,
+      0.010868077166378498,
+      7.254081538121682e-06,
+      8.586043875880023e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9721933007240295,
+      0.025961628183722496,
+      0.001009206986054778,
+      0.0008358603809028864
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2833.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.20583170652389526,
+      0.7938270568847656,
+      0.00034124476951546967,
+      2.098427920316226e-08
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.7923859357833862,
+      0.19125275313854218,
+      0.013429058715701103,
+      0.002932289382442832
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3222.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.006493228953331709,
+      0.35474297404289246,
+      0.4982742369174957,
+      0.14048947393894196
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.2827405631542206,
+      0.6875573396682739,
+      0.02432885393500328,
+      0.005373248364776373
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3551.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.0009798323551422e-08,
+      0.0016628550365567207,
+      0.7622045278549194,
+      0.2361326664686203
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0006643995875492692,
+      0.006967315450310707,
+      0.26137423515319824,
+      0.7309940457344055
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_777.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.4212940274992434e-07,
+      0.007456781342625618,
+      0.9771999716758728,
+      0.015342967584729195
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0014943295391276479,
+      0.08258660137653351,
+      0.7790278196334839,
+      0.13689126074314117
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2909.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      6.262565079850901e-07,
+      0.0019884391222149134,
+      0.46757566928863525,
+      0.5304352641105652
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0010986162815243006,
+      0.03596092015504837,
+      0.7222688794136047,
+      0.24067150056362152
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2505.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      8.201292978071706e-09,
+      7.57451118715835e-07,
+      0.004098526202142239,
+      0.9959006905555725
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00022974224702920765,
+      0.0007399978348985314,
+      0.019403111189603806,
+      0.9796271324157715
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_901.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9995720982551575,
+      0.00042774531175382435,
+      7.949776659188501e-08,
+      1.1619068901458363e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9545058608055115,
+      0.04305063188076019,
+      0.0015278677456080914,
+      0.0009156306041404605
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3613.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      2.0950905309291556e-05,
+      0.972110390663147,
+      0.027859603986144066,
+      8.995280040835496e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.09051581472158432,
+      0.8317652344703674,
+      0.06804949045181274,
+      0.009669407270848751
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1701.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.2821411960194382e-07,
+      0.07939905673265457,
+      0.9189009070396423,
+      0.0016998070059344172
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0033070805948227644,
+      0.1919483244419098,
+      0.71449875831604,
+      0.0902458131313324
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3696.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.6267715780292633e-10,
+      3.1346418836619705e-05,
+      0.23114396631717682,
+      0.7688246965408325
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0006029357318766415,
+      0.007158396299928427,
+      0.2311246693134308,
+      0.7611140608787537
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2362.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.2071337733040615e-12,
+      5.631706212483323e-10,
+      3.711765384650789e-05,
+      0.9999629259109497
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002681996556930244,
+      0.0006137957097962499,
+      0.011307576671242714,
+      0.987810492515564
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3920.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0015174750005826354,
+      0.9783088564872742,
+      0.020154912024736404,
+      1.8829206965165213e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.1776346117258072,
+      0.8122509121894836,
+      0.007739748805761337,
+      0.0023746753577142954
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3082.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.61358764491737e-11,
+      3.6715712212753715e-06,
+      0.10899723321199417,
+      0.8909990191459656
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0008704905631020665,
+      0.008258016780018806,
+      0.30298954248428345,
+      0.6878819465637207
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1266.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.227443354546263e-13,
+      7.023488990398619e-08,
+      0.011759874410927296,
+      0.9882400035858154
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0005389272118918598,
+      0.006925778463482857,
+      0.19379745423793793,
+      0.7987378239631653
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_2802.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.017283353954553604,
+      0.9305374622344971,
+      0.051707565784454346,
+      0.000471669394755736
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.028470737859606743,
+      0.8903520703315735,
+      0.07324735820293427,
+      0.007929758168756962
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3921.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.0019480393966659904,
+      0.037744540721178055,
+      0.8878376483917236,
+      0.0724697932600975
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0014874649932608008,
+      0.09275668114423752,
+      0.8650987148284912,
+      0.04065712168812752
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2580.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.7877418398857117,
+      0.2009926289319992,
+      0.01109702792018652,
+      0.00016850943211466074
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.838628351688385,
+      0.1558016836643219,
+      0.0040054358541965485,
+      0.0015646053943783045
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_738.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.5493688583374023,
+      0.44345128536224365,
+      0.007162244990468025,
+      1.7568630937603302e-05
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.4531473219394684,
+      0.5073704123497009,
+      0.03372247889637947,
+      0.0057597532868385315
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3659.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.38431790872329e-10,
+      1.605857136155464e-08,
+      0.00012358638923615217,
+      0.9998763799667358
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00023273759870789945,
+      0.001203021383844316,
+      0.03627105429768562,
+      0.9622932076454163
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_741.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      3.036249651700018e-08,
+      0.0018945027841255069,
+      0.5331629514694214,
+      0.4649425446987152
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.003422914771363139,
+      0.13510115444660187,
+      0.745581328868866,
+      0.11589453369379044
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_485.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9999797344207764,
+      2.027509435720276e-05,
+      8.380646399075431e-09,
+      4.446968487892278e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9753463864326477,
+      0.022290993481874466,
+      0.0015261886874213815,
+      0.0008364514796994627
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1591.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9999674558639526,
+      3.258515789639205e-05,
+      3.6796193869648164e-10,
+      1.0847838723620313e-15
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9962893724441528,
+      0.0019500880734995008,
+      0.0009192109573632479,
+      0.0008412430761381984
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_322.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.996751070022583,
+      0.00324887759052217,
+      9.925396682319843e-08,
+      6.595679297866086e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.970975935459137,
+      0.027091125026345253,
+      0.0011508130701258779,
+      0.0007821861654520035
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_272.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.041584864258766174,
+      0.706265389919281,
+      0.24633373320102692,
+      0.005815988406538963
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.025163928046822548,
+      0.9518263339996338,
+      0.02090202458202839,
+      0.0021077198907732964
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1369.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9986152648925781,
+      0.001384539296850562,
+      2.706422321807622e-07,
+      5.749938303267754e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9765159487724304,
+      0.01957404427230358,
+      0.0028956204187124968,
+      0.001014420296996832
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_116.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.2508701682090759,
+      0.7286694645881653,
+      0.02044065296649933,
+      1.96794298972236e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.9531993269920349,
+      0.04324368014931679,
+      0.0024574706330895424,
+      0.0010994828771799803
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1763.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.06229247897863388,
+      0.8076632618904114,
+      0.12671196460723877,
+      0.0033323117531836033
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.0072107622399926186,
+      0.2844839096069336,
+      0.6381902694702148,
+      0.07011505961418152
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2844.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      6.27449643891137e-13,
+      5.809384084898284e-09,
+      0.0011746012605726719,
+      0.9988253712654114
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002367676206631586,
+      0.0006806309102103114,
+      0.015554449521005154,
+      0.9835281372070312
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1360.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0056673940271139145,
+      0.9859760403633118,
+      0.008353900164365768,
+      2.6668917598726694e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.02917897328734398,
+      0.9056046009063721,
+      0.05997331067919731,
+      0.005243081599473953
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3711.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      7.322287274291739e-06,
+      0.9883204698562622,
+      0.01167211215943098,
+      1.2529412174444587e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.053133461624383926,
+      0.8941043019294739,
+      0.04617204889655113,
+      0.006590190343558788
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_877.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.029286706820130348,
+      0.9584771990776062,
+      0.012234051711857319,
+      2.0020756892336067e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.11922646313905716,
+      0.8665022850036621,
+      0.011568501591682434,
+      0.0027027446776628494
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_4002.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.05651170015335083,
+      0.9354925155639648,
+      0.007982103154063225,
+      1.3670700354850851e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.08034560084342957,
+      0.9103687405586243,
+      0.007591638248413801,
+      0.0016940623754635453
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1970.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.03292025625705719,
+      0.9553089737892151,
+      0.011764898896217346,
+      5.946880719420733e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.06521090865135193,
+      0.9221544861793518,
+      0.010740931145846844,
+      0.0018936353735625744
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1400.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      5.2727929869433865e-05,
+      0.001429926254786551,
+      0.13355202972888947,
+      0.8649652600288391
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.02547340840101242,
+      0.3874467611312866,
+      0.5227971076965332,
+      0.06428272277116776
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_2026.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      9.979736763539304e-14,
+      5.533489222386834e-09,
+      0.0009074204135686159,
+      0.9990925788879395
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002988901105709374,
+      0.00176640332210809,
+      0.05958084762096405,
+      0.9383538961410522
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3731.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      7.134041135614666e-10,
+      1.4871688769346747e-08,
+      0.000170691215316765,
+      0.9998292922973633
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0003422237350605428,
+      0.0006054599652998149,
+      0.008496060036122799,
+      0.9905562996864319
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3859.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      1.9537083062459715e-06,
+      0.04096465930342674,
+      0.9404441118240356,
+      0.018589351326227188
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.009304391220211983,
+      0.8824970126152039,
+      0.10220426321029663,
+      0.005994301289319992
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3174.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.7326259613037109,
+      0.26698651909828186,
+      0.0003869255306199193,
+      7.066177545311803e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.07019877433776855,
+      0.9187624454498291,
+      0.009182075038552284,
+      0.0018566749058663845
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_78.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0015272785676643252,
+      0.9964660406112671,
+      0.002006153343245387,
+      4.163854896432895e-07
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.178264781832695,
+      0.8137383460998535,
+      0.005955997388809919,
+      0.002040865132585168
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1067.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.6438893264166836e-07,
+      0.017327401787042618,
+      0.8461278676986694,
+      0.13654424250125885
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0028769050259143114,
+      0.19543318450450897,
+      0.7352035641670227,
+      0.06648633629083633
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_323.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9949236512184143,
+      0.0050748796202242374,
+      1.5382292986032553e-06,
+      5.603624786409966e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.8924388289451599,
+      0.10166984796524048,
+      0.004414744209498167,
+      0.0014765859814360738
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_4069.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9980428218841553,
+      0.0019568114075809717,
+      3.3179165370711416e-07,
+      2.8171157073764164e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.974373459815979,
+      0.022543301805853844,
+      0.0021247053518891335,
+      0.0009586127707734704
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2322.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9970756769180298,
+      0.0029240534640848637,
+      2.681680939531361e-07,
+      1.806631927392388e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9933833479881287,
+      0.0033470923081040382,
+      0.002198056550696492,
+      0.0010715215466916561
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3688.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.996846616268158,
+      0.0030950168147683144,
+      4.1768260416574776e-05,
+      1.6659152606735006e-05
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.4070402681827545,
+      0.5607721209526062,
+      0.026154767721891403,
+      0.006032878998667002
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3028.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0011341279605403543,
+      0.9943817257881165,
+      0.004482713527977467,
+      1.4207566891855095e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.1700911968946457,
+      0.8229460716247559,
+      0.005190062802284956,
+      0.0017726236255839467
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_796.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      6.849209603387862e-05,
+      0.01615217886865139,
+      0.9542473554611206,
+      0.029531989246606827
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0031289837788790464,
+      0.2373562455177307,
+      0.7258684635162354,
+      0.033646222203969955
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3608.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.0539125955565396e-08,
+      0.0009030785295180976,
+      0.9832815527915955,
+      0.015815360471606255
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.007425317075103521,
+      0.7280192375183105,
+      0.2548292875289917,
+      0.009726145304739475
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2856.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      2.8132975380442803e-15,
+      1.4690210853318675e-11,
+      2.8397013011272065e-05,
+      0.9999716281890869
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.00027170139946974814,
+      0.0006437583942897618,
+      0.014174056239426136,
+      0.9849105477333069
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3993.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9981428384780884,
+      0.0018564178608357906,
+      6.80548851050844e-07,
+      3.878376786392579e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9375325441360474,
+      0.05935604125261307,
+      0.002064905595034361,
+      0.0010464746737852693
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3813.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9982500672340393,
+      0.0017492052866145968,
+      7.102176482476352e-07,
+      9.385978973208697e-12
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9930040240287781,
+      0.005443779285997152,
+      0.0008499604882672429,
+      0.0007022818317636847
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3678.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9995119571685791,
+      0.00048802365199662745,
+      4.371529271907093e-08,
+      2.8643561481023205e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9952240586280823,
+      0.0031412127427756786,
+      0.0009030275978147984,
+      0.0007318183197639883
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_2181.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.00031024080817587674,
+      0.7957324385643005,
+      0.2035912424325943,
+      0.0003660497604869306
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.0053913407027721405,
+      0.5182622075080872,
+      0.45792311429977417,
+      0.018423346802592278
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_324.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      0.0023795063607394695,
+      0.9695427417755127,
+      0.02806939370930195,
+      8.324192094733007e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.014174995943903923,
+      0.33693984150886536,
+      0.5779522061347961,
+      0.07093299925327301
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3909.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      8.943330612964928e-06,
+      0.4713411331176758,
+      0.5285900831222534,
+      5.98429687670432e-05
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.024810826405882835,
+      0.9549810290336609,
+      0.01830478012561798,
+      0.0019033068092539907
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_619.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.967364475305658e-06,
+      0.0865812748670578,
+      0.8944544792175293,
+      0.018959298729896545
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0029290204402059317,
+      0.2663232386112213,
+      0.7003134489059448,
+      0.030434291809797287
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3996.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.9891753792762756,
+      0.010823283344507217,
+      1.2920496601509512e-06,
+      2.911382593340228e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.4367181360721588,
+      0.5571278929710388,
+      0.004184937570244074,
+      0.0019690238405019045
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3648.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      4.888917004564064e-08,
+      0.18700949847698212,
+      0.8113009929656982,
+      0.0016894108848646283
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.009384200908243656,
+      0.8986527323722839,
+      0.08735935389995575,
+      0.004603690933436155
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2902.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      2.5411560272914357e-05,
+      0.007473611738532782,
+      0.8305759429931641,
+      0.16192491352558136
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0005404982366599143,
+      0.003921222873032093,
+      0.1034410148859024,
+      0.8920973539352417
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_248.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9945005178451538,
+      0.005498557351529598,
+      9.561963452142663e-07,
+      1.5842592862580496e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9933938384056091,
+      0.004870276898145676,
+      0.0010224452707916498,
+      0.0007134014740586281
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_3364.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      5.683844392478932e-06,
+      0.002653544768691063,
+      0.4162157475948334,
+      0.581125020980835
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002137030678568408,
+      0.0009407358011230826,
+      0.025545982643961906,
+      0.9732995629310608
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1439.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.2305319252708252e-13,
+      6.186483858527936e-08,
+      0.0026738117448985577,
+      0.9973260164260864
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002090105408569798,
+      0.001013188622891903,
+      0.027751948684453964,
+      0.9710258841514587
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_4099.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.641160786151886,
+      0.3587845265865326,
+      5.463299385155551e-05,
+      2.359693773712479e-08
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.4723764955997467,
+      0.5007524490356445,
+      0.021795237436890602,
+      0.005075812339782715
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_3695.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.988368570804596,
+      0.011626341380178928,
+      5.0529156396805774e-06,
+      9.973325498791041e-10
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9761878848075867,
+      0.02200828492641449,
+      0.0010025271913036704,
+      0.0008013511542230844
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1639.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0015738451620563865,
+      0.8667727112770081,
+      0.13163386285305023,
+      1.959521796379704e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.004118693992495537,
+      0.43031010031700134,
+      0.5525434017181396,
+      0.013027825392782688
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1429.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.0011733447900041938,
+      0.9746714234352112,
+      0.024137042462825775,
+      1.8287038983544335e-05
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.020461704581975937,
+      0.9581902623176575,
+      0.01954282447695732,
+      0.0018052138620987535
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_2971.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9940226674079895,
+      0.005913731176406145,
+      6.266137643251568e-05,
+      8.687838430887496e-07
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9943299293518066,
+      0.00391569035127759,
+      0.001017455942928791,
+      0.00073687155963853
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_789.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.6984165185363054e-08,
+      2.575084465661348e-07,
+      0.0007441092748194933,
+      0.9992555975914001
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0003264104016125202,
+      0.000609764305409044,
+      0.008680714294314384,
+      0.9903830885887146
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1764.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      7.704161093802231e-12,
+      6.230235953808005e-07,
+      0.028237948194146156,
+      0.9717614054679871
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002348538109799847,
+      0.0006605852977372706,
+      0.013365103863179684,
+      0.9857394099235535
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_4066.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.17256838083267212,
+      0.8229225277900696,
+      0.004501955583691597,
+      7.114247637218796e-06
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.12267459183931351,
+      0.8347131013870239,
+      0.03615254908800125,
+      0.006459728814661503
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1279.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      7.453986761163378e-09,
+      0.005537748336791992,
+      0.9441829919815063,
+      0.05027930438518524
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.001260798191651702,
+      0.051413536071777344,
+      0.8739109039306641,
+      0.07341475039720535
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_3396.png",
+    "true_label": 1,
+    "vision_prediction_probs": [
+      0.02881002053618431,
+      0.8615532517433167,
+      0.10951315611600876,
+      0.00012357231753412634
+    ],
+    "vision_predicted_label": 1,
+    "text_prediction_probs": [
+      0.2101466953754425,
+      0.7721722722053528,
+      0.013988187536597252,
+      0.003692855592817068
+    ],
+    "text_predicted_label": 1
+  },
+  {
+    "name": "LCs_1637.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      4.785243845617515e-08,
+      0.004515612497925758,
+      0.8044371008872986,
+      0.1910473257303238
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.0034474595449864864,
+      0.32315874099731445,
+      0.6518839597702026,
+      0.02150987647473812
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1831.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      8.37844842062254e-15,
+      1.0403489875132621e-10,
+      0.00011153464583912864,
+      0.9998884201049805
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.000666097563225776,
+      0.0050101312808692455,
+      0.12665456533432007,
+      0.8676691651344299
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_3894.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9997993111610413,
+      0.00020017191127408296,
+      5.11717018980562e-07,
+      1.3754272165655834e-09
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.9962893724441528,
+      0.0019500880734995008,
+      0.0009192109573632479,
+      0.000841242668684572
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_1711.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      3.102272216892743e-09,
+      0.0004132840549573302,
+      0.37048524618148804,
+      0.6291015148162842
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002428896987112239,
+      0.0012489274377003312,
+      0.0379418209195137,
+      0.9605664014816284
+    ],
+    "text_predicted_label": 3
+  },
+  {
+    "name": "LCs_1845.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      1.9437637610586478e-10,
+      1.4428843542191316e-06,
+      0.09191589057445526,
+      0.9080826640129089
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0014274606946855783,
+      0.06018512323498726,
+      0.8402183651924133,
+      0.09816901385784149
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1878.png",
+    "true_label": 0,
+    "vision_prediction_probs": [
+      0.9264135360717773,
+      0.07358437776565552,
+      2.0616100755432853e-06,
+      1.0431118642462156e-11
+    ],
+    "vision_predicted_label": 0,
+    "text_prediction_probs": [
+      0.5589678883552551,
+      0.4357195198535919,
+      0.003481172490864992,
+      0.0018314450280740857
+    ],
+    "text_predicted_label": 0
+  },
+  {
+    "name": "LCs_383.png",
+    "true_label": 2,
+    "vision_prediction_probs": [
+      6.781220690754708e-06,
+      0.02602679841220379,
+      0.9674217700958252,
+      0.006544610485434532
+    ],
+    "vision_predicted_label": 2,
+    "text_prediction_probs": [
+      0.004258850589394569,
+      0.3811911940574646,
+      0.5970407128334045,
+      0.01750931143760681
+    ],
+    "text_predicted_label": 2
+  },
+  {
+    "name": "LCs_1675.png",
+    "true_label": 3,
+    "vision_prediction_probs": [
+      4.0771453189503495e-14,
+      2.1253145909838622e-09,
+      0.0011617623968049884,
+      0.9988382458686829
+    ],
+    "vision_predicted_label": 3,
+    "text_prediction_probs": [
+      0.0002874615020118654,
+      0.0013397991424426436,
+      0.03789367526769638,
+      0.9604790806770325
+    ],
+    "text_predicted_label": 3
+  }
+]
