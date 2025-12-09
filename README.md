@@ -1,5 +1,7 @@
 This project is designed for Langerhans cell activation level grading, and its complete execution process is outlined below.
-The dataset resource is located at \url{https://zenodo.org/records/17861993}.
+
+The dataset resource is located at https://zenodo.org/records/17861993.
+
 **Step 1: Train segmentation task (Segmentation_model) using CORN‑Pro, and test on IID‑Seg and OOD‑Seg**  
 - Set `config.py` (specify `--dataset`, `--env`).  
 - Run `python main.py` (two consecutive training phases).  
@@ -28,5 +30,6 @@ The dataset resource is located at \url{https://zenodo.org/records/17861993}.
 
 **Step 5: Train multimodal fusion task (Multimodal_fusion) using corpus**
 - Run `python Logistic_regression.py` to obtain the final grading results.
+
 
 
