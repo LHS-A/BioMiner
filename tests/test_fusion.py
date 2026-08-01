@@ -6,7 +6,7 @@ import unittest
 import torch
 from torch import nn
 
-from biominer.fusion import BioMinerFusion
+from fusion_branch.model import BioMinerFusion
 
 
 class DummyVisualEncoder(nn.Module):

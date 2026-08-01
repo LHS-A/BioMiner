@@ -1,0 +1,28 @@
+[
+  {
+    "id": "participant_001_image_001",
+    "image": "images/participant_001_image_001.png",
+    "nerve_mask": "nerve_masks/participant_001_image_001.png",
+    "cell_mask": "cell_masks/participant_001_image_001.png",
+    "age": 51,
+    "gender": "male",
+    "systemic_comorbidities": ["type 2 diabetes"],
+    "duration_years": 3,
+    "morphometrics": {
+      "langerhans_cell_density": 28.6,
+      "mean_field_area": 92.5,
+      "mean_dendrite_tips": 1.2,
+      "mean_cell_perimeter": 43.8,
+      "mean_cell_aspect_ratio": 1.38,
+      "mean_cell_solidity": 0.87,
+      "nerve_fiber_length": 20.4,
+      "nerve_fiber_density": 27.9,
+      "nerve_branch_point_density": 81.2,
+      "nerve_curvature_index": 1.26,
+      "nerve_fractal_dimension": 1.37,
+      "nerve_fiber_area": 0.062
+    },
+    "nerve_label": 1,
+    "cell_label": 1
+  }
+]

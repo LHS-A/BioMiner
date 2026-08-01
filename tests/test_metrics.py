@@ -3,7 +3,7 @@ from __future__ import annotations
 import numpy as np
 import unittest
 
-from biominer.metrics import grading_metrics
+from evaluation.metrics import grading_metrics
 
 
 class MetricsTests(unittest.TestCase):

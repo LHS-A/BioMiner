@@ -4,7 +4,8 @@ import numpy as np
 import torch
 import unittest
 
-from biominer.topology import TopologyCorruptor, non_simple_points, topology_reconstruction_loss
+from vision_branch.topology_aware_pretraining.model import topology_reconstruction_loss
+from vision_branch.topology_aware_pretraining.topology import TopologyCorruptor, non_simple_points
 
 
 def _cross(offset: int = 0):

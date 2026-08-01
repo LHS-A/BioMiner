@@ -5,7 +5,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from biominer.data import FUNCTIONAL_GRADING_QUESTION, load_text_samples
+from text_branch.clinical_narrative import FUNCTIONAL_GRADING_QUESTION, load_text_samples
 
 
 class DataTests(unittest.TestCase):

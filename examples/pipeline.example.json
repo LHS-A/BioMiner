@@ -1,0 +1,21 @@
+{
+  "stages": [
+    {
+      "command": "vision-pretrain",
+      "arguments": [
+        "--manifest", "data/fold1/vision_pretrain.json",
+        "--root", "data",
+        "--output", "outputs/fold1/vision/topology_autoencoder.pt"
+      ]
+    },
+    {
+      "command": "vision-adapt",
+      "arguments": [
+        "--manifest", "data/fold1/vision_train.json",
+        "--root", "data",
+        "--pretrained", "outputs/fold1/vision/topology_autoencoder.pt",
+        "--output", "outputs/fold1/vision/grader.pt"
+      ]
+    }
+  ]
+}
