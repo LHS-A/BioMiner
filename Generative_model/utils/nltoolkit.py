@@ -29,19 +29,16 @@ def preprocess_function(examples, cfg, history_column, future_column, tokenizer,
 
 
 def postprocess_text(preds, labels):
-    """
-    Text post-processing function - Simplified version
-    When using only Rouge1, sentence segmentation is unnecessary; only basic cleaning is required.
-    """
-    # Basic text cleaning
+    """Documentation for this retained training component."""
+    # Retain this implementation detail from the original training pipeline.
     preds = [pred.strip() for pred in preds]
     labels = [label.strip() for label in labels]
     
-    # Remove excessive whitespace and line breaks
+    # Retain this implementation detail from the original training pipeline.
     preds = [" ".join(pred.split()) for pred in preds]
     labels = [" ".join(label.split()) for label in labels]
     
-    # # This section has been removed (no longer needed since Rouge1 doesn't require sentence segmentation)
+    # Retain this implementation detail from the original training pipeline.
     # preds = ["\n".join(nltk.sent_tokenize(pred)) for pred in preds]
     # labels = ["\n".join(nltk.sent_tokenize(label)) for label in labels]
 

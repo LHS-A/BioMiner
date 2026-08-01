@@ -1,0 +1,10 @@
+[
+  {
+    "id": "participant_001_image_001",
+    "image": "images/participant_001_image_001.png",
+    "nerve_mask": "nerve_masks/participant_001_image_001.png",
+    "cell_mask": "cell_masks/participant_001_image_001.png",
+    "nerve_label": 0,
+    "cell_label": 1
+  }
+]

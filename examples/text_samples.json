@@ -1,0 +1,94 @@
+[
+  {
+    "id": "synthetic_level_0",
+    "age": 34,
+    "gender": "female",
+    "systemic_comorbidities": [],
+    "duration_years": 0,
+    "morphometrics": {
+      "langerhans_cell_density": 11.8,
+      "mean_field_area": 74.2,
+      "mean_dendrite_tips": 0.3,
+      "mean_cell_perimeter": 37.6,
+      "mean_cell_aspect_ratio": 1.21,
+      "mean_cell_solidity": 0.94,
+      "nerve_fiber_length": 23.7,
+      "nerve_fiber_density": 31.5,
+      "nerve_branch_point_density": 96.4,
+      "nerve_curvature_index": 1.08,
+      "nerve_fractal_dimension": 1.42,
+      "nerve_fiber_area": 0.071
+    },
+    "nerve_label": 0,
+    "cell_label": 0
+  },
+  {
+    "id": "synthetic_level_1",
+    "age": 51,
+    "gender": "male",
+    "systemic_comorbidities": ["type 2 diabetes"],
+    "duration_years": 3,
+    "morphometrics": {
+      "langerhans_cell_density": 28.6,
+      "mean_field_area": 92.5,
+      "mean_dendrite_tips": 1.2,
+      "mean_cell_perimeter": 43.8,
+      "mean_cell_aspect_ratio": 1.38,
+      "mean_cell_solidity": 0.87,
+      "nerve_fiber_length": 20.4,
+      "nerve_fiber_density": 27.9,
+      "nerve_branch_point_density": 81.2,
+      "nerve_curvature_index": 1.26,
+      "nerve_fractal_dimension": 1.37,
+      "nerve_fiber_area": 0.062
+    },
+    "nerve_label": 1,
+    "cell_label": 1
+  },
+  {
+    "id": "synthetic_level_2",
+    "age": 63,
+    "gender": "female",
+    "systemic_comorbidities": ["dry eye disease", "hypertension"],
+    "duration_years": 7,
+    "morphometrics": {
+      "langerhans_cell_density": 57.9,
+      "mean_field_area": 126.3,
+      "mean_dendrite_tips": 2.7,
+      "mean_cell_perimeter": 51.9,
+      "mean_cell_aspect_ratio": 1.63,
+      "mean_cell_solidity": 0.76,
+      "nerve_fiber_length": 16.1,
+      "nerve_fiber_density": 21.6,
+      "nerve_branch_point_density": 59.7,
+      "nerve_curvature_index": 1.58,
+      "nerve_fractal_dimension": 1.29,
+      "nerve_fiber_area": 0.049
+    },
+    "nerve_label": 2,
+    "cell_label": 2
+  },
+  {
+    "id": "synthetic_level_3",
+    "age": 72,
+    "gender": "male",
+    "systemic_comorbidities": ["diabetic peripheral neuropathy"],
+    "duration_years": 14,
+    "morphometrics": {
+      "langerhans_cell_density": 94.7,
+      "mean_field_area": 169.8,
+      "mean_dendrite_tips": 4.6,
+      "mean_cell_perimeter": 64.2,
+      "mean_cell_aspect_ratio": 1.91,
+      "mean_cell_solidity": 0.64,
+      "nerve_fiber_length": 11.3,
+      "nerve_fiber_density": 15.2,
+      "nerve_branch_point_density": 38.6,
+      "nerve_curvature_index": 2.04,
+      "nerve_fractal_dimension": 1.18,
+      "nerve_fiber_area": 0.033
+    },
+    "nerve_label": 3,
+    "cell_label": 3
+  }
+]
